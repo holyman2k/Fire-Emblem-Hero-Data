@@ -29622,5 +29622,488 @@
         "skill_id": 1419,
         "skill_name": "Human Virtue",
         "rarity": 5
+    },
+    {
+        "hero_id": 350,
+        "hero_name": "Idunn",
+        "skill_id": 120,
+        "skill_name": "Fire Breath",
+        "rarity": 1
+    },
+    {
+        "hero_id": 350,
+        "hero_name": "Idunn",
+        "skill_id": 340,
+        "skill_name": "Spur Def 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 350,
+        "hero_name": "Idunn",
+        "skill_id": 121,
+        "skill_name": "Fire Breath+",
+        "rarity": 2
+    },
+    {
+        "hero_id": 350,
+        "hero_name": "Idunn",
+        "skill_id": 341,
+        "skill_name": "Spur Def 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 350,
+        "hero_name": "Idunn",
+        "skill_id": 413,
+        "skill_name": "Fortress Def 1",
+        "rarity": 2
+    },
+    {
+        "hero_id": 350,
+        "hero_name": "Idunn",
+        "skill_id": 122,
+        "skill_name": "Flametongue",
+        "rarity": 3
+    },
+    {
+        "hero_id": 350,
+        "hero_name": "Idunn",
+        "skill_id": 168,
+        "skill_name": "Glowing Ember",
+        "rarity": 3
+    },
+    {
+        "hero_id": 350,
+        "hero_name": "Idunn",
+        "skill_id": 788,
+        "skill_name": "Vengeful Fighter 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 350,
+        "hero_name": "Idunn",
+        "skill_id": 1218,
+        "skill_name": "Fort. Def/Res 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 350,
+        "hero_name": "Idunn",
+        "skill_id": 169,
+        "skill_name": "Bonfire",
+        "rarity": 4
+    },
+    {
+        "hero_id": 350,
+        "hero_name": "Idunn",
+        "skill_id": 789,
+        "skill_name": "Vengeful Fighter 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 350,
+        "hero_name": "Idunn",
+        "skill_id": 893,
+        "skill_name": "Ward Dragons",
+        "rarity": 4
+    },
+    {
+        "hero_id": 350,
+        "hero_name": "Idunn",
+        "skill_id": 1219,
+        "skill_name": "Fort. Def/Res 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 350,
+        "hero_name": "Idunn",
+        "skill_id": 790,
+        "skill_name": "Vengeful Fighter 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 350,
+        "hero_name": "Idunn",
+        "skill_id": 1220,
+        "skill_name": "Fort. Def/Res 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 350,
+        "hero_name": "Idunn",
+        "skill_id": 1433,
+        "skill_name": "Demonic Breath",
+        "rarity": 5
+    },
+    {
+        "hero_id": 351,
+        "hero_name": "Lugh",
+        "skill_id": 101,
+        "skill_name": "Wind",
+        "rarity": 1
+    },
+    {
+        "hero_id": 351,
+        "hero_name": "Lugh",
+        "skill_id": 695,
+        "skill_name": "Warding Stance 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 351,
+        "hero_name": "Lugh",
+        "skill_id": 102,
+        "skill_name": "Elwind",
+        "rarity": 2
+    },
+    {
+        "hero_id": 351,
+        "hero_name": "Lugh",
+        "skill_id": 911,
+        "skill_name": "Mirror Stance 1",
+        "rarity": 2
+    },
+    {
+        "hero_id": 351,
+        "hero_name": "Lugh",
+        "skill_id": 146,
+        "skill_name": "Rally Resistance",
+        "rarity": 3
+    },
+    {
+        "hero_id": 351,
+        "hero_name": "Lugh",
+        "skill_id": 1354,
+        "skill_name": "Atk Feint 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 351,
+        "hero_name": "Lugh",
+        "skill_id": 1429,
+        "skill_name": "Gronnserpent",
+        "rarity": 3
+    },
+    {
+        "hero_id": 351,
+        "hero_name": "Lugh",
+        "skill_id": 912,
+        "skill_name": "Mirror Stance 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 351,
+        "hero_name": "Lugh",
+        "skill_id": 1355,
+        "skill_name": "Atk Feint 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 351,
+        "hero_name": "Lugh",
+        "skill_id": 1434,
+        "skill_name": "Rally Up Res",
+        "rarity": 4
+    },
+    {
+        "hero_id": 351,
+        "hero_name": "Lugh",
+        "skill_id": 1356,
+        "skill_name": "Atk Feint 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 351,
+        "hero_name": "Lugh",
+        "skill_id": 1430,
+        "skill_name": "Gronnserpent+",
+        "rarity": 5
+    },
+    {
+        "hero_id": 351,
+        "hero_name": "Lugh",
+        "skill_id": 1435,
+        "skill_name": "Rally Up Res+",
+        "rarity": 5
+    },
+    {
+        "hero_id": 352,
+        "hero_name": "Sue",
+        "skill_id": 52,
+        "skill_name": "Iron Bow",
+        "rarity": 1
+    },
+    {
+        "hero_id": 352,
+        "hero_name": "Sue",
+        "skill_id": 913,
+        "skill_name": "Chill Def 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 352,
+        "hero_name": "Sue",
+        "skill_id": 53,
+        "skill_name": "Steel Bow",
+        "rarity": 2
+    },
+    {
+        "hero_id": 352,
+        "hero_name": "Sue",
+        "skill_id": 355,
+        "skill_name": "Hone Spd 1",
+        "rarity": 2
+    },
+    {
+        "hero_id": 352,
+        "hero_name": "Sue",
+        "skill_id": 914,
+        "skill_name": "Chill Def 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 352,
+        "hero_name": "Sue",
+        "skill_id": 159,
+        "skill_name": "New Moon",
+        "rarity": 3
+    },
+    {
+        "hero_id": 352,
+        "hero_name": "Sue",
+        "skill_id": 224,
+        "skill_name": "Darting Blow 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 352,
+        "hero_name": "Sue",
+        "skill_id": 356,
+        "skill_name": "Hone Spd 2",
+        "rarity": 3
+    },
+    {
+        "hero_id": 352,
+        "hero_name": "Sue",
+        "skill_id": 1431,
+        "skill_name": "Short Bow",
+        "rarity": 3
+    },
+    {
+        "hero_id": 352,
+        "hero_name": "Sue",
+        "skill_id": 160,
+        "skill_name": "Moonbow",
+        "rarity": 4
+    },
+    {
+        "hero_id": 352,
+        "hero_name": "Sue",
+        "skill_id": 357,
+        "skill_name": "Hone Spd 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 352,
+        "hero_name": "Sue",
+        "skill_id": 403,
+        "skill_name": "Swift Sparrow 1",
+        "rarity": 4
+    },
+    {
+        "hero_id": 352,
+        "hero_name": "Sue",
+        "skill_id": 915,
+        "skill_name": "Chill Def 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 352,
+        "hero_name": "Sue",
+        "skill_id": 404,
+        "skill_name": "Swift Sparrow 2",
+        "rarity": 5
+    },
+    {
+        "hero_id": 352,
+        "hero_name": "Sue",
+        "skill_id": 1432,
+        "skill_name": "Short Bow+",
+        "rarity": 5
+    },
+    {
+        "hero_id": 352,
+        "hero_name": "Sue",
+        "skill_id": 1438,
+        "skill_name": "Hone Spd 4",
+        "rarity": 5
+    },
+    {
+        "hero_id": 353,
+        "hero_name": "Thea",
+        "skill_id": 23,
+        "skill_name": "Iron Lance",
+        "rarity": 1
+    },
+    {
+        "hero_id": 353,
+        "hero_name": "Thea",
+        "skill_id": 925,
+        "skill_name": "Darting Stance 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 353,
+        "hero_name": "Thea",
+        "skill_id": 24,
+        "skill_name": "Steel Lance",
+        "rarity": 2
+    },
+    {
+        "hero_id": 353,
+        "hero_name": "Thea",
+        "skill_id": 1154,
+        "skill_name": "Steady Posture 1",
+        "rarity": 2
+    },
+    {
+        "hero_id": 353,
+        "hero_name": "Thea",
+        "skill_id": 168,
+        "skill_name": "Glowing Ember",
+        "rarity": 3
+    },
+    {
+        "hero_id": 353,
+        "hero_name": "Thea",
+        "skill_id": 295,
+        "skill_name": "Seal Spd 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 353,
+        "hero_name": "Thea",
+        "skill_id": 1427,
+        "skill_name": "Vanguard",
+        "rarity": 3
+    },
+    {
+        "hero_id": 353,
+        "hero_name": "Thea",
+        "skill_id": 170,
+        "skill_name": "Ignis",
+        "rarity": 4
+    },
+    {
+        "hero_id": 353,
+        "hero_name": "Thea",
+        "skill_id": 1155,
+        "skill_name": "Steady Posture 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 353,
+        "hero_name": "Thea",
+        "skill_id": 1436,
+        "skill_name": "Seal Spd/Def 1",
+        "rarity": 4
+    },
+    {
+        "hero_id": 353,
+        "hero_name": "Thea",
+        "skill_id": 1428,
+        "skill_name": "Vanguard+",
+        "rarity": 5
+    },
+    {
+        "hero_id": 353,
+        "hero_name": "Thea",
+        "skill_id": 1437,
+        "skill_name": "Seal Spd/Def 2",
+        "rarity": 5
+    },
+    {
+        "hero_id": 354,
+        "hero_name": "Rutger",
+        "skill_id": 1,
+        "skill_name": "Iron Sword",
+        "rarity": 1
+    },
+    {
+        "hero_id": 354,
+        "hero_name": "Rutger",
+        "skill_id": 756,
+        "skill_name": "Atk/Def Bond 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 354,
+        "hero_name": "Rutger",
+        "skill_id": 2,
+        "skill_name": "Steel Sword",
+        "rarity": 2
+    },
+    {
+        "hero_id": 354,
+        "hero_name": "Rutger",
+        "skill_id": 757,
+        "skill_name": "Atk/Def Bond 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 354,
+        "hero_name": "Rutger",
+        "skill_id": 162,
+        "skill_name": "Retribution",
+        "rarity": 3
+    },
+    {
+        "hero_id": 354,
+        "hero_name": "Rutger",
+        "skill_id": 268,
+        "skill_name": "Vantage 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 354,
+        "hero_name": "Rutger",
+        "skill_id": 535,
+        "skill_name": "Slaying Edge",
+        "rarity": 3
+    },
+    {
+        "hero_id": 354,
+        "hero_name": "Rutger",
+        "skill_id": 164,
+        "skill_name": "Vengeance",
+        "rarity": 4
+    },
+    {
+        "hero_id": 354,
+        "hero_name": "Rutger",
+        "skill_id": 269,
+        "skill_name": "Vantage 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 354,
+        "hero_name": "Rutger",
+        "skill_id": 758,
+        "skill_name": "Atk/Def Bond 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 354,
+        "hero_name": "Rutger",
+        "skill_id": 270,
+        "skill_name": "Vantage 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 354,
+        "hero_name": "Rutger",
+        "skill_id": 536,
+        "skill_name": "Slaying Edge+",
+        "rarity": 5
     }
 ]
