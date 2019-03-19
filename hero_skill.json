@@ -30105,5 +30105,439 @@
         "skill_id": 536,
         "skill_name": "Slaying Edge+",
         "rarity": 5
+    },
+    {
+        "hero_id": 355,
+        "hero_name": "Palla",
+        "skill_id": 64,
+        "skill_name": "Iron Dagger",
+        "rarity": 1
+    },
+    {
+        "hero_id": 355,
+        "hero_name": "Palla",
+        "skill_id": 224,
+        "skill_name": "Darting Blow 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 355,
+        "hero_name": "Palla",
+        "skill_id": 65,
+        "skill_name": "Steel Dagger",
+        "rarity": 2
+    },
+    {
+        "hero_id": 355,
+        "hero_name": "Palla",
+        "skill_id": 403,
+        "skill_name": "Swift Sparrow 1",
+        "rarity": 2
+    },
+    {
+        "hero_id": 355,
+        "hero_name": "Palla",
+        "skill_id": 165,
+        "skill_name": "Dragon Gaze",
+        "rarity": 3
+    },
+    {
+        "hero_id": 355,
+        "hero_name": "Palla",
+        "skill_id": 352,
+        "skill_name": "Hone Atk 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 355,
+        "hero_name": "Palla",
+        "skill_id": 1443,
+        "skill_name": "Pegasus Carrot",
+        "rarity": 3
+    },
+    {
+        "hero_id": 355,
+        "hero_name": "Palla",
+        "skill_id": 1457,
+        "skill_name": "Disarm Trap 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 355,
+        "hero_name": "Palla",
+        "skill_id": 166,
+        "skill_name": "Draconic Aura",
+        "rarity": 4
+    },
+    {
+        "hero_id": 355,
+        "hero_name": "Palla",
+        "skill_id": 353,
+        "skill_name": "Hone Atk 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 355,
+        "hero_name": "Palla",
+        "skill_id": 404,
+        "skill_name": "Swift Sparrow 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 355,
+        "hero_name": "Palla",
+        "skill_id": 1458,
+        "skill_name": "Disarm Trap 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 355,
+        "hero_name": "Palla",
+        "skill_id": 368,
+        "skill_name": "Hone Fliers",
+        "rarity": 5
+    },
+    {
+        "hero_id": 355,
+        "hero_name": "Palla",
+        "skill_id": 1444,
+        "skill_name": "Pegasus Carrot+",
+        "rarity": 5
+    },
+    {
+        "hero_id": 355,
+        "hero_name": "Palla",
+        "skill_id": 1459,
+        "skill_name": "Disarm Trap 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 356,
+        "hero_name": "Marisa",
+        "skill_id": 23,
+        "skill_name": "Iron Lance",
+        "rarity": 1
+    },
+    {
+        "hero_id": 356,
+        "hero_name": "Marisa",
+        "skill_id": 1454,
+        "skill_name": "Spd/Def Link 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 356,
+        "hero_name": "Marisa",
+        "skill_id": 24,
+        "skill_name": "Steel Lance",
+        "rarity": 2
+    },
+    {
+        "hero_id": 356,
+        "hero_name": "Marisa",
+        "skill_id": 1455,
+        "skill_name": "Spd/Def Link 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 356,
+        "hero_name": "Marisa",
+        "skill_id": 141,
+        "skill_name": "Reposition",
+        "rarity": 3
+    },
+    {
+        "hero_id": 356,
+        "hero_name": "Marisa",
+        "skill_id": 970,
+        "skill_name": "Flier Guidance 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 356,
+        "hero_name": "Marisa",
+        "skill_id": 1439,
+        "skill_name": "Flashing Carrot",
+        "rarity": 3
+    },
+    {
+        "hero_id": 356,
+        "hero_name": "Marisa",
+        "skill_id": 971,
+        "skill_name": "Flier Guidance 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 356,
+        "hero_name": "Marisa",
+        "skill_id": 1456,
+        "skill_name": "Spd/Def Link 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 356,
+        "hero_name": "Marisa",
+        "skill_id": 972,
+        "skill_name": "Flier Guidance 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 356,
+        "hero_name": "Marisa",
+        "skill_id": 1440,
+        "skill_name": "Flashing Carrot+",
+        "rarity": 5
+    },
+    {
+        "hero_id": 357,
+        "hero_name": "Bruno",
+        "skill_id": 113,
+        "skill_name": "Assault",
+        "rarity": 1
+    },
+    {
+        "hero_id": 357,
+        "hero_name": "Bruno",
+        "skill_id": 130,
+        "skill_name": "Heal",
+        "rarity": 1
+    },
+    {
+        "hero_id": 357,
+        "hero_name": "Bruno",
+        "skill_id": 1448,
+        "skill_name": "Atk/Def Push 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 357,
+        "hero_name": "Bruno",
+        "skill_id": 193,
+        "skill_name": "Imbue",
+        "rarity": 2
+    },
+    {
+        "hero_id": 357,
+        "hero_name": "Bruno",
+        "skill_id": 1449,
+        "skill_name": "Atk/Def Push 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 357,
+        "hero_name": "Bruno",
+        "skill_id": 192,
+        "skill_name": "Miracle",
+        "rarity": 3
+    },
+    {
+        "hero_id": 357,
+        "hero_name": "Bruno",
+        "skill_id": 467,
+        "skill_name": "Dazzling Staff 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 357,
+        "hero_name": "Bruno",
+        "skill_id": 1446,
+        "skill_name": "Ovoid Staff",
+        "rarity": 3
+    },
+    {
+        "hero_id": 357,
+        "hero_name": "Bruno",
+        "skill_id": 468,
+        "skill_name": "Dazzling Staff 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 357,
+        "hero_name": "Bruno",
+        "skill_id": 1450,
+        "skill_name": "Atk/Def Push 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 357,
+        "hero_name": "Bruno",
+        "skill_id": 469,
+        "skill_name": "Dazzling Staff 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 357,
+        "hero_name": "Bruno",
+        "skill_id": 1447,
+        "skill_name": "Ovoid Staff+",
+        "rarity": 5
+    },
+    {
+        "hero_id": 358,
+        "hero_name": "Veronica",
+        "skill_id": 101,
+        "skill_name": "Wind",
+        "rarity": 1
+    },
+    {
+        "hero_id": 358,
+        "hero_name": "Veronica",
+        "skill_id": 931,
+        "skill_name": "Chill Res 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 358,
+        "hero_name": "Veronica",
+        "skill_id": 102,
+        "skill_name": "Elwind",
+        "rarity": 2
+    },
+    {
+        "hero_id": 358,
+        "hero_name": "Veronica",
+        "skill_id": 932,
+        "skill_name": "Chill Res 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 358,
+        "hero_name": "Veronica",
+        "skill_id": 103,
+        "skill_name": "Rexcalibur",
+        "rarity": 3
+    },
+    {
+        "hero_id": 358,
+        "hero_name": "Veronica",
+        "skill_id": 153,
+        "skill_name": "Night Sky",
+        "rarity": 3
+    },
+    {
+        "hero_id": 358,
+        "hero_name": "Veronica",
+        "skill_id": 1451,
+        "skill_name": "G Duel Flying 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 358,
+        "hero_name": "Veronica",
+        "skill_id": 154,
+        "skill_name": "Glimmer",
+        "rarity": 4
+    },
+    {
+        "hero_id": 358,
+        "hero_name": "Veronica",
+        "skill_id": 933,
+        "skill_name": "Chill Res 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 358,
+        "hero_name": "Veronica",
+        "skill_id": 1452,
+        "skill_name": "G Duel Flying 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 358,
+        "hero_name": "Veronica",
+        "skill_id": 1445,
+        "skill_name": "Veðrfölnir's Egg",
+        "rarity": 5
+    },
+    {
+        "hero_id": 358,
+        "hero_name": "Veronica",
+        "skill_id": 1453,
+        "skill_name": "G Duel Flying 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 359,
+        "hero_name": "Loki",
+        "skill_id": 52,
+        "skill_name": "Iron Bow",
+        "rarity": 1
+    },
+    {
+        "hero_id": 359,
+        "hero_name": "Loki",
+        "skill_id": 620,
+        "skill_name": "Flier Formation 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 359,
+        "hero_name": "Loki",
+        "skill_id": 53,
+        "skill_name": "Steel Bow",
+        "rarity": 2
+    },
+    {
+        "hero_id": 359,
+        "hero_name": "Loki",
+        "skill_id": 621,
+        "skill_name": "Flier Formation 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 359,
+        "hero_name": "Loki",
+        "skill_id": 159,
+        "skill_name": "New Moon",
+        "rarity": 3
+    },
+    {
+        "hero_id": 359,
+        "hero_name": "Loki",
+        "skill_id": 334,
+        "skill_name": "Spur Atk 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 359,
+        "hero_name": "Loki",
+        "skill_id": 1441,
+        "skill_name": "Beguiling Bow",
+        "rarity": 3
+    },
+    {
+        "hero_id": 359,
+        "hero_name": "Loki",
+        "skill_id": 161,
+        "skill_name": "Luna",
+        "rarity": 4
+    },
+    {
+        "hero_id": 359,
+        "hero_name": "Loki",
+        "skill_id": 335,
+        "skill_name": "Spur Atk 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 359,
+        "hero_name": "Loki",
+        "skill_id": 622,
+        "skill_name": "Flier Formation 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 359,
+        "hero_name": "Loki",
+        "skill_id": 350,
+        "skill_name": "Goad Fliers",
+        "rarity": 5
+    },
+    {
+        "hero_id": 359,
+        "hero_name": "Loki",
+        "skill_id": 1442,
+        "skill_name": "Beguiling Bow+",
+        "rarity": 5
     }
 ]
