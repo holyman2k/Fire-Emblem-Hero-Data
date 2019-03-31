@@ -6460,5 +6460,23 @@
         "weapontype": "bow",
         "movetype": "flying",
         "minrarity": 3
+    },
+    {
+        "hero_id": 360,
+        "name": "Yune (Chaos Goddess)",
+        "basehp": 16,
+        "baseatk": 9,
+        "basespd": 5,
+        "basedef": 5,
+        "baseres": 9,
+        "hpgrowth": 6,
+        "atkgrowth": 7,
+        "spdgrowth": 6,
+        "defgrowth": 1,
+        "resgrowth": 9,
+        "color": "green",
+        "weapontype": "greentome",
+        "movetype": "flying",
+        "minrarity": 3
     }
 ]
