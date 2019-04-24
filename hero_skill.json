@@ -23250,7 +23250,7 @@
         "hero_id": 282,
         "hero_name": "Veronica",
         "skill_id": 1134,
-        "skill_name": "Close Guard",
+        "skill_name": "Close Guard 1",
         "rarity": 1
     },
     {
@@ -26708,7 +26708,7 @@
         "hero_id": 319,
         "hero_name": "Ephraim",
         "skill_id": 1134,
-        "skill_name": "Close Guard",
+        "skill_name": "Close Guard 1",
         "rarity": 3
     },
     {
@@ -31070,6 +31070,475 @@
         "hero_name": "Haar",
         "skill_id": 432,
         "skill_name": "Guard 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 366,
+        "hero_name": "Genny",
+        "skill_id": 113,
+        "skill_name": "Assault",
+        "rarity": 1
+    },
+    {
+        "hero_id": 366,
+        "hero_name": "Genny",
+        "skill_id": 130,
+        "skill_name": "Heal",
+        "rarity": 1
+    },
+    {
+        "hero_id": 366,
+        "hero_name": "Genny",
+        "skill_id": 1504,
+        "skill_name": "Def Opening 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 366,
+        "hero_name": "Genny",
+        "skill_id": 193,
+        "skill_name": "Imbue",
+        "rarity": 2
+    },
+    {
+        "hero_id": 366,
+        "hero_name": "Genny",
+        "skill_id": 1505,
+        "skill_name": "Def Opening 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 366,
+        "hero_name": "Genny",
+        "skill_id": 195,
+        "skill_name": "Kindled-Fire Balm",
+        "rarity": 3
+    },
+    {
+        "hero_id": 366,
+        "hero_name": "Genny",
+        "skill_id": 448,
+        "skill_name": "Wrathful Staff 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 366,
+        "hero_name": "Genny",
+        "skill_id": 1496,
+        "skill_name": "Toasty Skewer",
+        "rarity": 3
+    },
+    {
+        "hero_id": 366,
+        "hero_name": "Genny",
+        "skill_id": 449,
+        "skill_name": "Wrathful Staff 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 366,
+        "hero_name": "Genny",
+        "skill_id": 1352,
+        "skill_name": "Fireflood Balm",
+        "rarity": 4
+    },
+    {
+        "hero_id": 366,
+        "hero_name": "Genny",
+        "skill_id": 1506,
+        "skill_name": "Def Opening 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 366,
+        "hero_name": "Genny",
+        "skill_id": 450,
+        "skill_name": "Wrathful Staff 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 366,
+        "hero_name": "Genny",
+        "skill_id": 1353,
+        "skill_name": "Fireflood Balm+",
+        "rarity": 5
+    },
+    {
+        "hero_id": 366,
+        "hero_name": "Genny",
+        "skill_id": 1497,
+        "skill_name": "Toasty Skewer+",
+        "rarity": 5
+    },
+    {
+        "hero_id": 367,
+        "hero_name": "Lukas",
+        "skill_id": 23,
+        "skill_name": "Iron Lance",
+        "rarity": 1
+    },
+    {
+        "hero_id": 367,
+        "hero_name": "Lukas",
+        "skill_id": 280,
+        "skill_name": "Wary Fighter 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 367,
+        "hero_name": "Lukas",
+        "skill_id": 24,
+        "skill_name": "Steel Lance",
+        "rarity": 2
+    },
+    {
+        "hero_id": 367,
+        "hero_name": "Lukas",
+        "skill_id": 281,
+        "skill_name": "Wary Fighter 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 367,
+        "hero_name": "Lukas",
+        "skill_id": 142,
+        "skill_name": "Pivot",
+        "rarity": 3
+    },
+    {
+        "hero_id": 367,
+        "hero_name": "Lukas",
+        "skill_id": 1490,
+        "skill_name": "Luncheon Lance",
+        "rarity": 3
+    },
+    {
+        "hero_id": 367,
+        "hero_name": "Lukas",
+        "skill_id": 1498,
+        "skill_name": "AR-O Atk/Def 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 367,
+        "hero_name": "Lukas",
+        "skill_id": 282,
+        "skill_name": "Wary Fighter 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 367,
+        "hero_name": "Lukas",
+        "skill_id": 1499,
+        "skill_name": "AR-O Atk/Def 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 367,
+        "hero_name": "Lukas",
+        "skill_id": 1491,
+        "skill_name": "Luncheon Lance+",
+        "rarity": 5
+    },
+    {
+        "hero_id": 367,
+        "hero_name": "Lukas",
+        "skill_id": 1500,
+        "skill_name": "AR-O Atk/Def 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 368,
+        "hero_name": "Felicia",
+        "skill_id": 37,
+        "skill_name": "Iron Axe",
+        "rarity": 1
+    },
+    {
+        "hero_id": 368,
+        "hero_name": "Felicia",
+        "skill_id": 802,
+        "skill_name": "Spd/Def Bond 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 368,
+        "hero_name": "Felicia",
+        "skill_id": 38,
+        "skill_name": "Steel Axe",
+        "rarity": 2
+    },
+    {
+        "hero_id": 368,
+        "hero_name": "Felicia",
+        "skill_id": 803,
+        "skill_name": "Spd/Def Bond 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 368,
+        "hero_name": "Felicia",
+        "skill_id": 39,
+        "skill_name": "Silver Axe",
+        "rarity": 3
+    },
+    {
+        "hero_id": 368,
+        "hero_name": "Felicia",
+        "skill_id": 171,
+        "skill_name": "Chilling Wind",
+        "rarity": 3
+    },
+    {
+        "hero_id": 368,
+        "hero_name": "Felicia",
+        "skill_id": 1128,
+        "skill_name": "Special Fighter 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 368,
+        "hero_name": "Felicia",
+        "skill_id": 1134,
+        "skill_name": "Close Guard 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 368,
+        "hero_name": "Felicia",
+        "skill_id": 173,
+        "skill_name": "Glacies",
+        "rarity": 4
+    },
+    {
+        "hero_id": 368,
+        "hero_name": "Felicia",
+        "skill_id": 804,
+        "skill_name": "Spd/Def Bond 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 368,
+        "hero_name": "Felicia",
+        "skill_id": 1129,
+        "skill_name": "Special Fighter 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 368,
+        "hero_name": "Felicia",
+        "skill_id": 1135,
+        "skill_name": "Close Guard 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 368,
+        "hero_name": "Felicia",
+        "skill_id": 1130,
+        "skill_name": "Special Fighter 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 368,
+        "hero_name": "Felicia",
+        "skill_id": 1136,
+        "skill_name": "Close Guard 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 368,
+        "hero_name": "Felicia",
+        "skill_id": 1492,
+        "skill_name": "Eldhrímnir",
+        "rarity": 5
+    },
+    {
+        "hero_id": 369,
+        "hero_name": "Flora",
+        "skill_id": 64,
+        "skill_name": "Iron Dagger",
+        "rarity": 1
+    },
+    {
+        "hero_id": 369,
+        "hero_name": "Flora",
+        "skill_id": 588,
+        "skill_name": "Armor March 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 369,
+        "hero_name": "Flora",
+        "skill_id": 65,
+        "skill_name": "Steel Dagger",
+        "rarity": 2
+    },
+    {
+        "hero_id": 369,
+        "hero_name": "Flora",
+        "skill_id": 589,
+        "skill_name": "Armor March 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 369,
+        "hero_name": "Flora",
+        "skill_id": 66,
+        "skill_name": "Silver Dagger",
+        "rarity": 3
+    },
+    {
+        "hero_id": 369,
+        "hero_name": "Flora",
+        "skill_id": 171,
+        "skill_name": "Chilling Wind",
+        "rarity": 3
+    },
+    {
+        "hero_id": 369,
+        "hero_name": "Flora",
+        "skill_id": 785,
+        "skill_name": "Bold Fighter 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 369,
+        "hero_name": "Flora",
+        "skill_id": 1501,
+        "skill_name": "AR-D Atk/Res 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 369,
+        "hero_name": "Flora",
+        "skill_id": 172,
+        "skill_name": "Iceberg",
+        "rarity": 4
+    },
+    {
+        "hero_id": 369,
+        "hero_name": "Flora",
+        "skill_id": 590,
+        "skill_name": "Armor March 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 369,
+        "hero_name": "Flora",
+        "skill_id": 786,
+        "skill_name": "Bold Fighter 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 369,
+        "hero_name": "Flora",
+        "skill_id": 1502,
+        "skill_name": "AR-D Atk/Res 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 369,
+        "hero_name": "Flora",
+        "skill_id": 787,
+        "skill_name": "Bold Fighter 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 369,
+        "hero_name": "Flora",
+        "skill_id": 1493,
+        "skill_name": "Sæhrímnir",
+        "rarity": 5
+    },
+    {
+        "hero_id": 369,
+        "hero_name": "Flora",
+        "skill_id": 1503,
+        "skill_name": "AR-D Atk/Res 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 370,
+        "hero_name": "Leo",
+        "skill_id": 101,
+        "skill_name": "Wind",
+        "rarity": 1
+    },
+    {
+        "hero_id": 370,
+        "hero_name": "Leo",
+        "skill_id": 442,
+        "skill_name": "Distant Def 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 370,
+        "hero_name": "Leo",
+        "skill_id": 102,
+        "skill_name": "Elwind",
+        "rarity": 2
+    },
+    {
+        "hero_id": 370,
+        "hero_name": "Leo",
+        "skill_id": 443,
+        "skill_name": "Distant Def 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 370,
+        "hero_name": "Leo",
+        "skill_id": 153,
+        "skill_name": "Night Sky",
+        "rarity": 3
+    },
+    {
+        "hero_id": 370,
+        "hero_name": "Leo",
+        "skill_id": 277,
+        "skill_name": "Quick Riposte 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 370,
+        "hero_name": "Leo",
+        "skill_id": 1494,
+        "skill_name": "Sandwiches!",
+        "rarity": 3
+    },
+    {
+        "hero_id": 370,
+        "hero_name": "Leo",
+        "skill_id": 154,
+        "skill_name": "Glimmer",
+        "rarity": 4
+    },
+    {
+        "hero_id": 370,
+        "hero_name": "Leo",
+        "skill_id": 278,
+        "skill_name": "Quick Riposte 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 370,
+        "hero_name": "Leo",
+        "skill_id": 444,
+        "skill_name": "Distant Def 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 370,
+        "hero_name": "Leo",
+        "skill_id": 279,
+        "skill_name": "Quick Riposte 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 370,
+        "hero_name": "Leo",
+        "skill_id": 1495,
+        "skill_name": "Sandwiches!+",
         "rarity": 5
     }
 ]
