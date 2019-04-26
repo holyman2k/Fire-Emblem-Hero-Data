@@ -23374,5 +23374,53 @@
         "weaponinheritrule": "sword,lance,axe,redbow,bluebow,greenbow,bow,reddagger,bluedagger,greendagger,dagger,redtome,bluetome,greentome,staff,redbreath,bluebreath,greenbreath,colorlessbreath,redbeast,bluebeast,greenbeast,colorlessbeast",
         "movetypeinheritrule": "infantry,armored,cavalry,flying",
         "affectsduel": 1
+    },
+    {
+        "skill_id": 1507,
+        "name": "Luna Arc",
+        "slot": "weapon",
+        "sp": 0,
+        "description": "Effective against flying foes. Grants Spd+3. If unit initiates combat, deals damage = 25% of foe's Def. (Ignores reductions to Def from special skills like Lunar Flash.)",
+        "hp": 0,
+        "atk": 14,
+        "spd": 3,
+        "def": 0,
+        "res": 0,
+        "charge": 0,
+        "weaponinheritrule": "unique",
+        "movetypeinheritrule": "unique",
+        "affectsduel": 1
+    },
+    {
+        "skill_id": 1508,
+        "name": "Lunar Flash",
+        "slot": "special",
+        "sp": 0,
+        "description": "Treats foe’s Def/Res as if reduced by 20% during combat. Boosts damage by 20% of unit's Spd.",
+        "hp": 0,
+        "atk": 0,
+        "spd": 0,
+        "def": 0,
+        "res": 0,
+        "charge": 0,
+        "weaponinheritrule": "unique",
+        "movetypeinheritrule": "unique",
+        "affectsduel": 1
+    },
+    {
+        "skill_id": 1509,
+        "name": "Darting Blow 4",
+        "slot": "a",
+        "sp": 0,
+        "description": "If unit initiates combat, grants Spd+9 during combat.",
+        "hp": 0,
+        "atk": 0,
+        "spd": 0,
+        "def": 0,
+        "res": 0,
+        "charge": 0,
+        "weaponinheritrule": "sword,lance,axe,redbow,bluebow,greenbow,bow,reddagger,bluedagger,greendagger,dagger,redtome,bluetome,greentome,redbreath,bluebreath,greenbreath,colorlessbreath,redbeast,bluebeast,greenbeast,colorlessbeast",
+        "movetypeinheritrule": "infantry,armored,cavalry,flying",
+        "affectsduel": 1
     }
 ]
