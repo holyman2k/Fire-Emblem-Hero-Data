@@ -2109,15 +2109,15 @@
     {
         "hero_id": 26,
         "hero_name": "Stahl",
-        "skill_id": 12,
-        "skill_name": "Ruby Sword+",
+        "skill_id": 261,
+        "skill_name": "Obstruct 3",
         "rarity": 5
     },
     {
         "hero_id": 26,
         "hero_name": "Stahl",
-        "skill_id": 261,
-        "skill_name": "Obstruct 3",
+        "skill_id": 1510,
+        "skill_name": "Panther Sword",
         "rarity": 5
     },
     {
@@ -3110,15 +3110,15 @@
     {
         "hero_id": 39,
         "hero_name": "Sully",
-        "skill_id": 34,
-        "skill_name": "Sapphire Lance+",
+        "skill_id": 306,
+        "skill_name": "Swordbreaker 3",
         "rarity": 5
     },
     {
         "hero_id": 39,
         "hero_name": "Sully",
-        "skill_id": 306,
-        "skill_name": "Swordbreaker 3",
+        "skill_id": 1511,
+        "skill_name": "Bull Spear",
         "rarity": 5
     },
     {
@@ -9515,8 +9515,8 @@
     {
         "hero_id": 120,
         "hero_name": "Faye",
-        "skill_id": 412,
-        "skill_name": "Firesweep Bow+",
+        "skill_id": 1513,
+        "skill_name": "Bow of Devotion",
         "rarity": 5
     },
     {
@@ -9655,15 +9655,15 @@
     {
         "hero_id": 122,
         "hero_name": "Lukas",
-        "skill_id": 30,
-        "skill_name": "Killer Lance+",
+        "skill_id": 415,
+        "skill_name": "Fortress Def 3",
         "rarity": 5
     },
     {
         "hero_id": 122,
         "hero_name": "Lukas",
-        "skill_id": 415,
-        "skill_name": "Fortress Def 3",
+        "skill_id": 1512,
+        "skill_name": "Daybreak Lance",
         "rarity": 5
     },
     {
@@ -31658,6 +31658,447 @@
         "hero_name": "Alm",
         "skill_id": 1509,
         "skill_name": "Darting Blow 4",
+        "rarity": 5
+    },
+    {
+        "hero_id": 372,
+        "hero_name": "Tiki",
+        "skill_id": 120,
+        "skill_name": "Fire Breath",
+        "rarity": 1
+    },
+    {
+        "hero_id": 372,
+        "hero_name": "Tiki",
+        "skill_id": 779,
+        "skill_name": "Brazen Atk/Spd 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 372,
+        "hero_name": "Tiki",
+        "skill_id": 121,
+        "skill_name": "Fire Breath+",
+        "rarity": 2
+    },
+    {
+        "hero_id": 372,
+        "hero_name": "Tiki",
+        "skill_id": 780,
+        "skill_name": "Brazen Atk/Spd 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 372,
+        "hero_name": "Tiki",
+        "skill_id": 122,
+        "skill_name": "Flametongue",
+        "rarity": 3
+    },
+    {
+        "hero_id": 372,
+        "hero_name": "Tiki",
+        "skill_id": 168,
+        "skill_name": "Glowing Ember",
+        "rarity": 3
+    },
+    {
+        "hero_id": 372,
+        "hero_name": "Tiki",
+        "skill_id": 1128,
+        "skill_name": "Special Fighter 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 372,
+        "hero_name": "Tiki",
+        "skill_id": 170,
+        "skill_name": "Ignis",
+        "rarity": 4
+    },
+    {
+        "hero_id": 372,
+        "hero_name": "Tiki",
+        "skill_id": 781,
+        "skill_name": "Brazen Atk/Spd 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 372,
+        "hero_name": "Tiki",
+        "skill_id": 1129,
+        "skill_name": "Special Fighter 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 372,
+        "hero_name": "Tiki",
+        "skill_id": 1130,
+        "skill_name": "Special Fighter 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 372,
+        "hero_name": "Tiki",
+        "skill_id": 1521,
+        "skill_name": "Razing Breath",
+        "rarity": 5
+    },
+    {
+        "hero_id": 372,
+        "hero_name": "Tiki",
+        "skill_id": 1528,
+        "skill_name": "Solitary Dream",
+        "rarity": 5
+    },
+    {
+        "hero_id": 373,
+        "hero_name": "Mareeta",
+        "skill_id": 1,
+        "skill_name": "Iron Sword",
+        "rarity": 1
+    },
+    {
+        "hero_id": 373,
+        "hero_name": "Mareeta",
+        "skill_id": 2,
+        "skill_name": "Steel Sword",
+        "rarity": 2
+    },
+    {
+        "hero_id": 373,
+        "hero_name": "Mareeta",
+        "skill_id": 713,
+        "skill_name": "Flashing Blade 1",
+        "rarity": 2
+    },
+    {
+        "hero_id": 373,
+        "hero_name": "Mareeta",
+        "skill_id": 3,
+        "skill_name": "Silver Sword",
+        "rarity": 3
+    },
+    {
+        "hero_id": 373,
+        "hero_name": "Mareeta",
+        "skill_id": 159,
+        "skill_name": "New Moon",
+        "rarity": 3
+    },
+    {
+        "hero_id": 373,
+        "hero_name": "Mareeta",
+        "skill_id": 714,
+        "skill_name": "Flashing Blade 2",
+        "rarity": 3
+    },
+    {
+        "hero_id": 373,
+        "hero_name": "Mareeta",
+        "skill_id": 1249,
+        "skill_name": "Null Follow-Up 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 373,
+        "hero_name": "Mareeta",
+        "skill_id": 161,
+        "skill_name": "Luna",
+        "rarity": 4
+    },
+    {
+        "hero_id": 373,
+        "hero_name": "Mareeta",
+        "skill_id": 715,
+        "skill_name": "Flashing Blade 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 373,
+        "hero_name": "Mareeta",
+        "skill_id": 1250,
+        "skill_name": "Null Follow-Up 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 373,
+        "hero_name": "Mareeta",
+        "skill_id": 1251,
+        "skill_name": "Null Follow-Up 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 373,
+        "hero_name": "Mareeta",
+        "skill_id": 1518,
+        "skill_name": "Shadow Sword",
+        "rarity": 5
+    },
+    {
+        "hero_id": 373,
+        "hero_name": "Mareeta",
+        "skill_id": 1524,
+        "skill_name": "Flashing Blade 4",
+        "rarity": 5
+    },
+    {
+        "hero_id": 374,
+        "hero_name": "Berkut",
+        "skill_id": 23,
+        "skill_name": "Iron Lance",
+        "rarity": 1
+    },
+    {
+        "hero_id": 374,
+        "hero_name": "Berkut",
+        "skill_id": 1071,
+        "skill_name": "Odd Res Wave 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 374,
+        "hero_name": "Berkut",
+        "skill_id": 24,
+        "skill_name": "Steel Lance",
+        "rarity": 2
+    },
+    {
+        "hero_id": 374,
+        "hero_name": "Berkut",
+        "skill_id": 695,
+        "skill_name": "Warding Stance 1",
+        "rarity": 2
+    },
+    {
+        "hero_id": 374,
+        "hero_name": "Berkut",
+        "skill_id": 1072,
+        "skill_name": "Odd Res Wave 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 374,
+        "hero_name": "Berkut",
+        "skill_id": 25,
+        "skill_name": "Silver Lance",
+        "rarity": 3
+    },
+    {
+        "hero_id": 374,
+        "hero_name": "Berkut",
+        "skill_id": 162,
+        "skill_name": "Retribution",
+        "rarity": 3
+    },
+    {
+        "hero_id": 374,
+        "hero_name": "Berkut",
+        "skill_id": 696,
+        "skill_name": "Warding Stance 2",
+        "rarity": 3
+    },
+    {
+        "hero_id": 374,
+        "hero_name": "Berkut",
+        "skill_id": 163,
+        "skill_name": "Reprisal",
+        "rarity": 4
+    },
+    {
+        "hero_id": 374,
+        "hero_name": "Berkut",
+        "skill_id": 697,
+        "skill_name": "Warding Stance 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 374,
+        "hero_name": "Berkut",
+        "skill_id": 1073,
+        "skill_name": "Odd Res Wave 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 374,
+        "hero_name": "Berkut",
+        "skill_id": 1519,
+        "skill_name": "Kriemhild",
+        "rarity": 5
+    },
+    {
+        "hero_id": 374,
+        "hero_name": "Berkut",
+        "skill_id": 1523,
+        "skill_name": "Warding Stance 4",
+        "rarity": 5
+    },
+    {
+        "hero_id": 375,
+        "hero_name": "Corrin",
+        "skill_id": 120,
+        "skill_name": "Fire Breath",
+        "rarity": 1
+    },
+    {
+        "hero_id": 375,
+        "hero_name": "Corrin",
+        "skill_id": 1225,
+        "skill_name": "Atk/Spd Solo 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 375,
+        "hero_name": "Corrin",
+        "skill_id": 121,
+        "skill_name": "Fire Breath+",
+        "rarity": 2
+    },
+    {
+        "hero_id": 375,
+        "hero_name": "Corrin",
+        "skill_id": 1226,
+        "skill_name": "Atk/Spd Solo 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 375,
+        "hero_name": "Corrin",
+        "skill_id": 122,
+        "skill_name": "Flametongue",
+        "rarity": 3
+    },
+    {
+        "hero_id": 375,
+        "hero_name": "Corrin",
+        "skill_id": 165,
+        "skill_name": "Dragon Gaze",
+        "rarity": 3
+    },
+    {
+        "hero_id": 375,
+        "hero_name": "Corrin",
+        "skill_id": 1525,
+        "skill_name": "Sudden Panic 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 375,
+        "hero_name": "Corrin",
+        "skill_id": 167,
+        "skill_name": "Dragon Fang",
+        "rarity": 4
+    },
+    {
+        "hero_id": 375,
+        "hero_name": "Corrin",
+        "skill_id": 1227,
+        "skill_name": "Atk/Spd Solo 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 375,
+        "hero_name": "Corrin",
+        "skill_id": 1526,
+        "skill_name": "Sudden Panic 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 375,
+        "hero_name": "Corrin",
+        "skill_id": 1522,
+        "skill_name": "Savage Breath",
+        "rarity": 5
+    },
+    {
+        "hero_id": 375,
+        "hero_name": "Corrin",
+        "skill_id": 1527,
+        "skill_name": "Sudden Panic 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 376,
+        "hero_name": "Delthea",
+        "skill_id": 89,
+        "skill_name": "Thunder",
+        "rarity": 1
+    },
+    {
+        "hero_id": 376,
+        "hero_name": "Delthea",
+        "skill_id": 1209,
+        "skill_name": "Even Atk Wave 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 376,
+        "hero_name": "Delthea",
+        "skill_id": 90,
+        "skill_name": "Elthunder",
+        "rarity": 2
+    },
+    {
+        "hero_id": 376,
+        "hero_name": "Delthea",
+        "skill_id": 1210,
+        "skill_name": "Even Atk Wave 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 376,
+        "hero_name": "Delthea",
+        "skill_id": 91,
+        "skill_name": "Thoron",
+        "rarity": 3
+    },
+    {
+        "hero_id": 376,
+        "hero_name": "Delthea",
+        "skill_id": 171,
+        "skill_name": "Chilling Wind",
+        "rarity": 3
+    },
+    {
+        "hero_id": 376,
+        "hero_name": "Delthea",
+        "skill_id": 221,
+        "skill_name": "Death Blow 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 376,
+        "hero_name": "Delthea",
+        "skill_id": 173,
+        "skill_name": "Glacies",
+        "rarity": 4
+    },
+    {
+        "hero_id": 376,
+        "hero_name": "Delthea",
+        "skill_id": 222,
+        "skill_name": "Death Blow 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 376,
+        "hero_name": "Delthea",
+        "skill_id": 1211,
+        "skill_name": "Even Atk Wave 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 376,
+        "hero_name": "Delthea",
+        "skill_id": 223,
+        "skill_name": "Death Blow 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 376,
+        "hero_name": "Delthea",
+        "skill_id": 1520,
+        "skill_name": "Death",
         "rarity": 5
     }
 ]
