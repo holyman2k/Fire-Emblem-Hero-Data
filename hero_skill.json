@@ -32100,5 +32100,460 @@
         "skill_id": 1520,
         "skill_name": "Death",
         "rarity": 5
+    },
+    {
+        "hero_id": 377,
+        "hero_name": "Fjorm",
+        "skill_id": 113,
+        "skill_name": "Assault",
+        "rarity": 1
+    },
+    {
+        "hero_id": 377,
+        "hero_name": "Fjorm",
+        "skill_id": 130,
+        "skill_name": "Heal",
+        "rarity": 1
+    },
+    {
+        "hero_id": 377,
+        "hero_name": "Fjorm",
+        "skill_id": 200,
+        "skill_name": "HP +3",
+        "rarity": 1
+    },
+    {
+        "hero_id": 377,
+        "hero_name": "Fjorm",
+        "skill_id": 134,
+        "skill_name": "Reconcile",
+        "rarity": 2
+    },
+    {
+        "hero_id": 377,
+        "hero_name": "Fjorm",
+        "skill_id": 874,
+        "skill_name": "HP/Atk 1",
+        "rarity": 2
+    },
+    {
+        "hero_id": 377,
+        "hero_name": "Fjorm",
+        "skill_id": 467,
+        "skill_name": "Dazzling Staff 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 377,
+        "hero_name": "Fjorm",
+        "skill_id": 952,
+        "skill_name": "Restore",
+        "rarity": 3
+    },
+    {
+        "hero_id": 377,
+        "hero_name": "Fjorm",
+        "skill_id": 1542,
+        "skill_name": "Ground Orders 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 377,
+        "hero_name": "Fjorm",
+        "skill_id": 468,
+        "skill_name": "Dazzling Staff 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 377,
+        "hero_name": "Fjorm",
+        "skill_id": 875,
+        "skill_name": "HP/Atk 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 377,
+        "hero_name": "Fjorm",
+        "skill_id": 1543,
+        "skill_name": "Ground Orders 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 377,
+        "hero_name": "Fjorm",
+        "skill_id": 469,
+        "skill_name": "Dazzling Staff 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 377,
+        "hero_name": "Fjorm",
+        "skill_id": 953,
+        "skill_name": "Restore+",
+        "rarity": 5
+    },
+    {
+        "hero_id": 377,
+        "hero_name": "Fjorm",
+        "skill_id": 1537,
+        "skill_name": "Gjallarbrú",
+        "rarity": 5
+    },
+    {
+        "hero_id": 377,
+        "hero_name": "Fjorm",
+        "skill_id": 1544,
+        "skill_name": "Ground Orders 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 378,
+        "hero_name": "Sigrun",
+        "skill_id": 1,
+        "skill_name": "Iron Sword",
+        "rarity": 1
+    },
+    {
+        "hero_id": 378,
+        "hero_name": "Sigrun",
+        "skill_id": 1539,
+        "skill_name": "AR-D Spd/Def 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 378,
+        "hero_name": "Sigrun",
+        "skill_id": 2,
+        "skill_name": "Steel Sword",
+        "rarity": 2
+    },
+    {
+        "hero_id": 378,
+        "hero_name": "Sigrun",
+        "skill_id": 1540,
+        "skill_name": "AR-D Spd/Def 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 378,
+        "hero_name": "Sigrun",
+        "skill_id": 147,
+        "skill_name": "Ardent Sacrifice",
+        "rarity": 3
+    },
+    {
+        "hero_id": 378,
+        "hero_name": "Sigrun",
+        "skill_id": 1360,
+        "skill_name": "Air Orders 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 378,
+        "hero_name": "Sigrun",
+        "skill_id": 1529,
+        "skill_name": "Cake Cutter",
+        "rarity": 3
+    },
+    {
+        "hero_id": 378,
+        "hero_name": "Sigrun",
+        "skill_id": 1361,
+        "skill_name": "Air Orders 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 378,
+        "hero_name": "Sigrun",
+        "skill_id": 1541,
+        "skill_name": "AR-D Spd/Def 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 378,
+        "hero_name": "Sigrun",
+        "skill_id": 1362,
+        "skill_name": "Air Orders 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 378,
+        "hero_name": "Sigrun",
+        "skill_id": 1530,
+        "skill_name": "Cake Cutter+",
+        "rarity": 5
+    },
+    {
+        "hero_id": 379,
+        "hero_name": "Tanith",
+        "skill_id": 23,
+        "skill_name": "Iron Lance",
+        "rarity": 1
+    },
+    {
+        "hero_id": 379,
+        "hero_name": "Tanith",
+        "skill_id": 358,
+        "skill_name": "Fortify Def 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 379,
+        "hero_name": "Tanith",
+        "skill_id": 24,
+        "skill_name": "Steel Lance",
+        "rarity": 2
+    },
+    {
+        "hero_id": 379,
+        "hero_name": "Tanith",
+        "skill_id": 359,
+        "skill_name": "Fortify Def 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 379,
+        "hero_name": "Tanith",
+        "skill_id": 148,
+        "skill_name": "Harsh Command",
+        "rarity": 3
+    },
+    {
+        "hero_id": 379,
+        "hero_name": "Tanith",
+        "skill_id": 224,
+        "skill_name": "Darting Blow 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 379,
+        "hero_name": "Tanith",
+        "skill_id": 1004,
+        "skill_name": "Chill Atk 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 379,
+        "hero_name": "Tanith",
+        "skill_id": 1531,
+        "skill_name": "Lofty Blossoms",
+        "rarity": 3
+    },
+    {
+        "hero_id": 379,
+        "hero_name": "Tanith",
+        "skill_id": 369,
+        "skill_name": "Fortify Fliers",
+        "rarity": 4
+    },
+    {
+        "hero_id": 379,
+        "hero_name": "Tanith",
+        "skill_id": 403,
+        "skill_name": "Swift Sparrow 1",
+        "rarity": 4
+    },
+    {
+        "hero_id": 379,
+        "hero_name": "Tanith",
+        "skill_id": 1005,
+        "skill_name": "Chill Atk 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 379,
+        "hero_name": "Tanith",
+        "skill_id": 404,
+        "skill_name": "Swift Sparrow 2",
+        "rarity": 5
+    },
+    {
+        "hero_id": 379,
+        "hero_name": "Tanith",
+        "skill_id": 1006,
+        "skill_name": "Chill Atk 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 379,
+        "hero_name": "Tanith",
+        "skill_id": 1532,
+        "skill_name": "Lofty Blossoms+",
+        "rarity": 5
+    },
+    {
+        "hero_id": 379,
+        "hero_name": "Tanith",
+        "skill_id": 1538,
+        "skill_name": "Harsh Command+",
+        "rarity": 5
+    },
+    {
+        "hero_id": 380,
+        "hero_name": "Pent",
+        "skill_id": 816,
+        "skill_name": "Light",
+        "rarity": 1
+    },
+    {
+        "hero_id": 380,
+        "hero_name": "Pent",
+        "skill_id": 916,
+        "skill_name": "Dull Ranged 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 380,
+        "hero_name": "Pent",
+        "skill_id": 817,
+        "skill_name": "Ellight",
+        "rarity": 2
+    },
+    {
+        "hero_id": 380,
+        "hero_name": "Pent",
+        "skill_id": 917,
+        "skill_name": "Dull Ranged 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 380,
+        "hero_name": "Pent",
+        "skill_id": 143,
+        "skill_name": "Rally Attack",
+        "rarity": 3
+    },
+    {
+        "hero_id": 380,
+        "hero_name": "Pent",
+        "skill_id": 1535,
+        "skill_name": "Vessel of Cheer",
+        "rarity": 3
+    },
+    {
+        "hero_id": 380,
+        "hero_name": "Pent",
+        "skill_id": 1545,
+        "skill_name": "Pulse Smoke 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 380,
+        "hero_name": "Pent",
+        "skill_id": 918,
+        "skill_name": "Dull Ranged 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 380,
+        "hero_name": "Pent",
+        "skill_id": 1166,
+        "skill_name": "Rally Up Atk",
+        "rarity": 4
+    },
+    {
+        "hero_id": 380,
+        "hero_name": "Pent",
+        "skill_id": 1546,
+        "skill_name": "Pulse Smoke 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 380,
+        "hero_name": "Pent",
+        "skill_id": 1167,
+        "skill_name": "Rally Up Atk+",
+        "rarity": 5
+    },
+    {
+        "hero_id": 380,
+        "hero_name": "Pent",
+        "skill_id": 1536,
+        "skill_name": "Vessel of Cheer+",
+        "rarity": 5
+    },
+    {
+        "hero_id": 380,
+        "hero_name": "Pent",
+        "skill_id": 1547,
+        "skill_name": "Pulse Smoke 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 381,
+        "hero_name": "Louise",
+        "skill_id": 52,
+        "skill_name": "Iron Bow",
+        "rarity": 1
+    },
+    {
+        "hero_id": 381,
+        "hero_name": "Louise",
+        "skill_id": 355,
+        "skill_name": "Hone Spd 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 381,
+        "hero_name": "Louise",
+        "skill_id": 53,
+        "skill_name": "Steel Bow",
+        "rarity": 2
+    },
+    {
+        "hero_id": 381,
+        "hero_name": "Louise",
+        "skill_id": 356,
+        "skill_name": "Hone Spd 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 381,
+        "hero_name": "Louise",
+        "skill_id": 149,
+        "skill_name": "Reciprocal Aid",
+        "rarity": 3
+    },
+    {
+        "hero_id": 381,
+        "hero_name": "Louise",
+        "skill_id": 876,
+        "skill_name": "Atk/Spd Bond 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 381,
+        "hero_name": "Louise",
+        "skill_id": 1533,
+        "skill_name": "Bouquet Bow",
+        "rarity": 3
+    },
+    {
+        "hero_id": 381,
+        "hero_name": "Louise",
+        "skill_id": 366,
+        "skill_name": "Hone Cavalry",
+        "rarity": 4
+    },
+    {
+        "hero_id": 381,
+        "hero_name": "Louise",
+        "skill_id": 877,
+        "skill_name": "Atk/Spd Bond 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 381,
+        "hero_name": "Louise",
+        "skill_id": 878,
+        "skill_name": "Atk/Spd Bond 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 381,
+        "hero_name": "Louise",
+        "skill_id": 1534,
+        "skill_name": "Bouquet Bow+",
+        "rarity": 5
     }
 ]
