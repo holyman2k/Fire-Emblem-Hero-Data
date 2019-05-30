@@ -32555,5 +32555,96 @@
         "skill_id": 1534,
         "skill_name": "Bouquet Bow+",
         "rarity": 5
+    },
+    {
+        "hero_id": 382,
+        "hero_name": "Naga",
+        "skill_id": 120,
+        "skill_name": "Fire Breath",
+        "rarity": 1
+    },
+    {
+        "hero_id": 382,
+        "hero_name": "Naga",
+        "skill_id": 890,
+        "skill_name": "Chill Spd 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 382,
+        "hero_name": "Naga",
+        "skill_id": 121,
+        "skill_name": "Fire Breath+",
+        "rarity": 2
+    },
+    {
+        "hero_id": 382,
+        "hero_name": "Naga",
+        "skill_id": 891,
+        "skill_name": "Chill Spd 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 382,
+        "hero_name": "Naga",
+        "skill_id": 122,
+        "skill_name": "Flametongue",
+        "rarity": 3
+    },
+    {
+        "hero_id": 382,
+        "hero_name": "Naga",
+        "skill_id": 159,
+        "skill_name": "New Moon",
+        "rarity": 3
+    },
+    {
+        "hero_id": 382,
+        "hero_name": "Naga",
+        "skill_id": 1549,
+        "skill_name": "AR-O Atk/Spd 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 382,
+        "hero_name": "Naga",
+        "skill_id": 161,
+        "skill_name": "Luna",
+        "rarity": 4
+    },
+    {
+        "hero_id": 382,
+        "hero_name": "Naga",
+        "skill_id": 892,
+        "skill_name": "Chill Spd 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 382,
+        "hero_name": "Naga",
+        "skill_id": 1550,
+        "skill_name": "AR-O Atk/Spd 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 382,
+        "hero_name": "Naga",
+        "skill_id": 1548,
+        "skill_name": "Divine Breath",
+        "rarity": 5
+    },
+    {
+        "hero_id": 382,
+        "hero_name": "Naga",
+        "skill_id": 1551,
+        "skill_name": "AR-O Atk/Spd 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 382,
+        "hero_name": "Naga",
+        "skill_id": 1552,
+        "skill_name": "Divine Fang",
+        "rarity": 5
     }
 ]
