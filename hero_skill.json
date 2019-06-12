@@ -5630,15 +5630,15 @@
     {
         "hero_id": 71,
         "hero_name": "Saizo",
-        "skill_id": 69,
-        "skill_name": "Smoke Dagger+",
+        "skill_id": 339,
+        "skill_name": "Spur Spd 3",
         "rarity": 5
     },
     {
         "hero_id": 71,
         "hero_name": "Saizo",
-        "skill_id": 339,
-        "skill_name": "Spur Spd 3",
+        "skill_id": 1566,
+        "skill_name": "Saizo's Star",
         "rarity": 5
     },
     {
@@ -5714,15 +5714,15 @@
     {
         "hero_id": 72,
         "hero_name": "Kagero",
-        "skill_id": 71,
-        "skill_name": "Poison Dagger+",
+        "skill_id": 232,
+        "skill_name": "Warding Blow 3",
         "rarity": 5
     },
     {
         "hero_id": 72,
         "hero_name": "Kagero",
-        "skill_id": 232,
-        "skill_name": "Warding Blow 3",
+        "skill_id": 1567,
+        "skill_name": "Kagero's Dart",
         "rarity": 5
     },
     {
@@ -13470,15 +13470,15 @@
     {
         "hero_id": 169,
         "hero_name": "Oscar",
-        "skill_id": 34,
-        "skill_name": "Sapphire Lance+",
+        "skill_id": 627,
+        "skill_name": "Spur Spd/Def 2",
         "rarity": 5
     },
     {
         "hero_id": 169,
         "hero_name": "Oscar",
-        "skill_id": 627,
-        "skill_name": "Spur Spd/Def 2",
+        "skill_id": 1565,
+        "skill_name": "Loyal Greatlance",
         "rarity": 5
     },
     {
@@ -32645,6 +32645,468 @@
         "hero_name": "Naga",
         "skill_id": 1552,
         "skill_name": "Divine Fang",
+        "rarity": 5
+    },
+    {
+        "hero_id": 383,
+        "hero_name": "Nah",
+        "skill_id": 120,
+        "skill_name": "Fire Breath",
+        "rarity": 1
+    },
+    {
+        "hero_id": 383,
+        "hero_name": "Nah",
+        "skill_id": 277,
+        "skill_name": "Quick Riposte 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 383,
+        "hero_name": "Nah",
+        "skill_id": 121,
+        "skill_name": "Fire Breath+",
+        "rarity": 2
+    },
+    {
+        "hero_id": 383,
+        "hero_name": "Nah",
+        "skill_id": 278,
+        "skill_name": "Quick Riposte 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 383,
+        "hero_name": "Nah",
+        "skill_id": 122,
+        "skill_name": "Flametongue",
+        "rarity": 3
+    },
+    {
+        "hero_id": 383,
+        "hero_name": "Nah",
+        "skill_id": 168,
+        "skill_name": "Glowing Ember",
+        "rarity": 3
+    },
+    {
+        "hero_id": 383,
+        "hero_name": "Nah",
+        "skill_id": 1416,
+        "skill_name": "Bonus Doubler 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 383,
+        "hero_name": "Nah",
+        "skill_id": 1584,
+        "skill_name": "Infantry Breath 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 383,
+        "hero_name": "Nah",
+        "skill_id": 169,
+        "skill_name": "Bonfire",
+        "rarity": 4
+    },
+    {
+        "hero_id": 383,
+        "hero_name": "Nah",
+        "skill_id": 279,
+        "skill_name": "Quick Riposte 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 383,
+        "hero_name": "Nah",
+        "skill_id": 1417,
+        "skill_name": "Bonus Doubler 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 383,
+        "hero_name": "Nah",
+        "skill_id": 1585,
+        "skill_name": "Infantry Breath 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 383,
+        "hero_name": "Nah",
+        "skill_id": 1418,
+        "skill_name": "Bonus Doubler 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 383,
+        "hero_name": "Nah",
+        "skill_id": 1577,
+        "skill_name": "Oracle's Breath",
+        "rarity": 5
+    },
+    {
+        "hero_id": 383,
+        "hero_name": "Nah",
+        "skill_id": 1586,
+        "skill_name": "Infantry Breath 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 384,
+        "hero_name": "Brady",
+        "skill_id": 113,
+        "skill_name": "Assault",
+        "rarity": 1
+    },
+    {
+        "hero_id": 384,
+        "hero_name": "Brady",
+        "skill_id": 130,
+        "skill_name": "Heal",
+        "rarity": 1
+    },
+    {
+        "hero_id": 384,
+        "hero_name": "Brady",
+        "skill_id": 1578,
+        "skill_name": "Atk/Res Push 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 384,
+        "hero_name": "Brady",
+        "skill_id": 193,
+        "skill_name": "Imbue",
+        "rarity": 2
+    },
+    {
+        "hero_id": 384,
+        "hero_name": "Brady",
+        "skill_id": 1579,
+        "skill_name": "Atk/Res Push 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 384,
+        "hero_name": "Brady",
+        "skill_id": 116,
+        "skill_name": "Slow",
+        "rarity": 3
+    },
+    {
+        "hero_id": 384,
+        "hero_name": "Brady",
+        "skill_id": 194,
+        "skill_name": "Heavenly Light",
+        "rarity": 3
+    },
+    {
+        "hero_id": 384,
+        "hero_name": "Brady",
+        "skill_id": 1048,
+        "skill_name": "Infantry Rush 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 384,
+        "hero_name": "Brady",
+        "skill_id": 1049,
+        "skill_name": "Infantry Rush 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 384,
+        "hero_name": "Brady",
+        "skill_id": 1580,
+        "skill_name": "Atk/Res Push 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 384,
+        "hero_name": "Brady",
+        "skill_id": 732,
+        "skill_name": "Slow+",
+        "rarity": 5
+    },
+    {
+        "hero_id": 384,
+        "hero_name": "Brady",
+        "skill_id": 1050,
+        "skill_name": "Infantry Rush 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 385,
+        "hero_name": "Yarne",
+        "skill_id": 265,
+        "skill_name": "Escape Route 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 385,
+        "hero_name": "Yarne",
+        "skill_id": 1400,
+        "skill_name": "Whelp (Cavalry)",
+        "rarity": 1
+    },
+    {
+        "hero_id": 385,
+        "hero_name": "Yarne",
+        "skill_id": 266,
+        "skill_name": "Escape Route 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 385,
+        "hero_name": "Yarne",
+        "skill_id": 1401,
+        "skill_name": "Yearling (Cavalry)",
+        "rarity": 2
+    },
+    {
+        "hero_id": 385,
+        "hero_name": "Yarne",
+        "skill_id": 153,
+        "skill_name": "Night Sky",
+        "rarity": 3
+    },
+    {
+        "hero_id": 385,
+        "hero_name": "Yarne",
+        "skill_id": 1183,
+        "skill_name": "Odd Spd Wave 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 385,
+        "hero_name": "Yarne",
+        "skill_id": 1225,
+        "skill_name": "Atk/Spd Solo 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 385,
+        "hero_name": "Yarne",
+        "skill_id": 1402,
+        "skill_name": "Adult (Cavalry)",
+        "rarity": 3
+    },
+    {
+        "hero_id": 385,
+        "hero_name": "Yarne",
+        "skill_id": 155,
+        "skill_name": "Astra",
+        "rarity": 4
+    },
+    {
+        "hero_id": 385,
+        "hero_name": "Yarne",
+        "skill_id": 267,
+        "skill_name": "Escape Route 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 385,
+        "hero_name": "Yarne",
+        "skill_id": 1184,
+        "skill_name": "Odd Spd Wave 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 385,
+        "hero_name": "Yarne",
+        "skill_id": 1226,
+        "skill_name": "Atk/Spd Solo 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 385,
+        "hero_name": "Yarne",
+        "skill_id": 199,
+        "skill_name": "Galeforce",
+        "rarity": 5
+    },
+    {
+        "hero_id": 385,
+        "hero_name": "Yarne",
+        "skill_id": 1185,
+        "skill_name": "Odd Spd Wave 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 385,
+        "hero_name": "Yarne",
+        "skill_id": 1227,
+        "skill_name": "Atk/Spd Solo 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 385,
+        "hero_name": "Yarne",
+        "skill_id": 1576,
+        "skill_name": "Bunny Fang",
+        "rarity": 5
+    },
+    {
+        "hero_id": 386,
+        "hero_name": "Kjelle",
+        "skill_id": 23,
+        "skill_name": "Iron Lance",
+        "rarity": 1
+    },
+    {
+        "hero_id": 386,
+        "hero_name": "Kjelle",
+        "skill_id": 1581,
+        "skill_name": "AR-D Def/Res 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 386,
+        "hero_name": "Kjelle",
+        "skill_id": 24,
+        "skill_name": "Steel Lance",
+        "rarity": 2
+    },
+    {
+        "hero_id": 386,
+        "hero_name": "Kjelle",
+        "skill_id": 1582,
+        "skill_name": "AR-D Def/Res 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 386,
+        "hero_name": "Kjelle",
+        "skill_id": 165,
+        "skill_name": "Dragon Gaze",
+        "rarity": 3
+    },
+    {
+        "hero_id": 386,
+        "hero_name": "Kjelle",
+        "skill_id": 785,
+        "skill_name": "Bold Fighter 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 386,
+        "hero_name": "Kjelle",
+        "skill_id": 1574,
+        "skill_name": "Barrier Lance",
+        "rarity": 3
+    },
+    {
+        "hero_id": 386,
+        "hero_name": "Kjelle",
+        "skill_id": 166,
+        "skill_name": "Draconic Aura",
+        "rarity": 4
+    },
+    {
+        "hero_id": 386,
+        "hero_name": "Kjelle",
+        "skill_id": 786,
+        "skill_name": "Bold Fighter 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 386,
+        "hero_name": "Kjelle",
+        "skill_id": 1583,
+        "skill_name": "AR-D Def/Res 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 386,
+        "hero_name": "Kjelle",
+        "skill_id": 787,
+        "skill_name": "Bold Fighter 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 386,
+        "hero_name": "Kjelle",
+        "skill_id": 1575,
+        "skill_name": "Barrier Lance+",
+        "rarity": 5
+    },
+    {
+        "hero_id": 387,
+        "hero_name": "Cynthia",
+        "skill_id": 23,
+        "skill_name": "Iron Lance",
+        "rarity": 1
+    },
+    {
+        "hero_id": 387,
+        "hero_name": "Cynthia",
+        "skill_id": 1454,
+        "skill_name": "Spd/Def Link 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 387,
+        "hero_name": "Cynthia",
+        "skill_id": 24,
+        "skill_name": "Steel Lance",
+        "rarity": 2
+    },
+    {
+        "hero_id": 387,
+        "hero_name": "Cynthia",
+        "skill_id": 1455,
+        "skill_name": "Spd/Def Link 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 387,
+        "hero_name": "Cynthia",
+        "skill_id": 138,
+        "skill_name": "Shove",
+        "rarity": 3
+    },
+    {
+        "hero_id": 387,
+        "hero_name": "Cynthia",
+        "skill_id": 334,
+        "skill_name": "Spur Atk 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 387,
+        "hero_name": "Cynthia",
+        "skill_id": 471,
+        "skill_name": "Firesweep Lance",
+        "rarity": 3
+    },
+    {
+        "hero_id": 387,
+        "hero_name": "Cynthia",
+        "skill_id": 530,
+        "skill_name": "Drive Atk 1",
+        "rarity": 4
+    },
+    {
+        "hero_id": 387,
+        "hero_name": "Cynthia",
+        "skill_id": 1456,
+        "skill_name": "Spd/Def Link 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 387,
+        "hero_name": "Cynthia",
+        "skill_id": 472,
+        "skill_name": "Firesweep L+",
+        "rarity": 5
+    },
+    {
+        "hero_id": 387,
+        "hero_name": "Cynthia",
+        "skill_id": 531,
+        "skill_name": "Drive Atk 2",
         "rarity": 5
     }
 ]
