@@ -33108,5 +33108,481 @@
         "skill_id": 531,
         "skill_name": "Drive Atk 2",
         "rarity": 5
+    },
+    {
+        "hero_id": 388,
+        "hero_name": "Laegjarn",
+        "skill_id": 355,
+        "skill_name": "Hone Spd 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 388,
+        "hero_name": "Laegjarn",
+        "skill_id": 816,
+        "skill_name": "Light",
+        "rarity": 1
+    },
+    {
+        "hero_id": 388,
+        "hero_name": "Laegjarn",
+        "skill_id": 224,
+        "skill_name": "Darting Blow 1",
+        "rarity": 2
+    },
+    {
+        "hero_id": 388,
+        "hero_name": "Laegjarn",
+        "skill_id": 356,
+        "skill_name": "Hone Spd 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 388,
+        "hero_name": "Laegjarn",
+        "skill_id": 817,
+        "skill_name": "Ellight",
+        "rarity": 2
+    },
+    {
+        "hero_id": 388,
+        "hero_name": "Laegjarn",
+        "skill_id": 141,
+        "skill_name": "Reposition",
+        "rarity": 3
+    },
+    {
+        "hero_id": 388,
+        "hero_name": "Laegjarn",
+        "skill_id": 403,
+        "skill_name": "Swift Sparrow 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 388,
+        "hero_name": "Laegjarn",
+        "skill_id": 620,
+        "skill_name": "Flier Formation 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 388,
+        "hero_name": "Laegjarn",
+        "skill_id": 818,
+        "skill_name": "Shine",
+        "rarity": 3
+    },
+    {
+        "hero_id": 388,
+        "hero_name": "Laegjarn",
+        "skill_id": 368,
+        "skill_name": "Hone Fliers",
+        "rarity": 4
+    },
+    {
+        "hero_id": 388,
+        "hero_name": "Laegjarn",
+        "skill_id": 404,
+        "skill_name": "Swift Sparrow 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 388,
+        "hero_name": "Laegjarn",
+        "skill_id": 621,
+        "skill_name": "Flier Formation 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 388,
+        "hero_name": "Laegjarn",
+        "skill_id": 622,
+        "skill_name": "Flier Formation 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 388,
+        "hero_name": "Laegjarn",
+        "skill_id": 1593,
+        "skill_name": "Worldsea Wave",
+        "rarity": 5
+    },
+    {
+        "hero_id": 388,
+        "hero_name": "Laegjarn",
+        "skill_id": 1596,
+        "skill_name": "Swift Sparrow 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 389,
+        "hero_name": "Laevatein",
+        "skill_id": 101,
+        "skill_name": "Wind",
+        "rarity": 1
+    },
+    {
+        "hero_id": 389,
+        "hero_name": "Laevatein",
+        "skill_id": 995,
+        "skill_name": "Odd Atk Wave 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 389,
+        "hero_name": "Laevatein",
+        "skill_id": 102,
+        "skill_name": "Elwind",
+        "rarity": 2
+    },
+    {
+        "hero_id": 389,
+        "hero_name": "Laevatein",
+        "skill_id": 221,
+        "skill_name": "Death Blow 1",
+        "rarity": 2
+    },
+    {
+        "hero_id": 389,
+        "hero_name": "Laevatein",
+        "skill_id": 996,
+        "skill_name": "Odd Atk Wave 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 389,
+        "hero_name": "Laevatein",
+        "skill_id": 139,
+        "skill_name": "Smite",
+        "rarity": 3
+    },
+    {
+        "hero_id": 389,
+        "hero_name": "Laevatein",
+        "skill_id": 544,
+        "skill_name": "Mirror Strike 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 389,
+        "hero_name": "Laevatein",
+        "skill_id": 1007,
+        "skill_name": "Def/Res Link 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 389,
+        "hero_name": "Laevatein",
+        "skill_id": 1594,
+        "skill_name": "Buoyboard",
+        "rarity": 3
+    },
+    {
+        "hero_id": 389,
+        "hero_name": "Laevatein",
+        "skill_id": 545,
+        "skill_name": "Mirror Strike 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 389,
+        "hero_name": "Laevatein",
+        "skill_id": 997,
+        "skill_name": "Odd Atk Wave 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 389,
+        "hero_name": "Laevatein",
+        "skill_id": 1008,
+        "skill_name": "Def/Res Link 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 389,
+        "hero_name": "Laevatein",
+        "skill_id": 1009,
+        "skill_name": "Def/Res Link 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 389,
+        "hero_name": "Laevatein",
+        "skill_id": 1595,
+        "skill_name": "Buoyboard+",
+        "rarity": 5
+    },
+    {
+        "hero_id": 389,
+        "hero_name": "Laevatein",
+        "skill_id": 1597,
+        "skill_name": "Mirror Impact",
+        "rarity": 5
+    },
+    {
+        "hero_id": 390,
+        "hero_name": "Helbindi",
+        "skill_id": 1,
+        "skill_name": "Iron Sword",
+        "rarity": 1
+    },
+    {
+        "hero_id": 390,
+        "hero_name": "Helbindi",
+        "skill_id": 490,
+        "skill_name": "Panic Ploy 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 390,
+        "hero_name": "Helbindi",
+        "skill_id": 2,
+        "skill_name": "Steel Sword",
+        "rarity": 2
+    },
+    {
+        "hero_id": 390,
+        "hero_name": "Helbindi",
+        "skill_id": 491,
+        "skill_name": "Panic Ploy 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 390,
+        "hero_name": "Helbindi",
+        "skill_id": 145,
+        "skill_name": "Rally Defense",
+        "rarity": 3
+    },
+    {
+        "hero_id": 390,
+        "hero_name": "Helbindi",
+        "skill_id": 1587,
+        "skill_name": "Sandfort Spade",
+        "rarity": 3
+    },
+    {
+        "hero_id": 390,
+        "hero_name": "Helbindi",
+        "skill_id": 1598,
+        "skill_name": "R Duel Infantry 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 390,
+        "hero_name": "Helbindi",
+        "skill_id": 492,
+        "skill_name": "Panic Ploy 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 390,
+        "hero_name": "Helbindi",
+        "skill_id": 763,
+        "skill_name": "Rally Atk/Def",
+        "rarity": 4
+    },
+    {
+        "hero_id": 390,
+        "hero_name": "Helbindi",
+        "skill_id": 1599,
+        "skill_name": "R Duel Infantry 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 390,
+        "hero_name": "Helbindi",
+        "skill_id": 1482,
+        "skill_name": "Rally Atk/Def+",
+        "rarity": 5
+    },
+    {
+        "hero_id": 390,
+        "hero_name": "Helbindi",
+        "skill_id": 1588,
+        "skill_name": "Sandfort Spade+",
+        "rarity": 5
+    },
+    {
+        "hero_id": 390,
+        "hero_name": "Helbindi",
+        "skill_id": 1600,
+        "skill_name": "R Duel Infantry 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 391,
+        "hero_name": "Gunnthrá",
+        "skill_id": 64,
+        "skill_name": "Iron Dagger",
+        "rarity": 1
+    },
+    {
+        "hero_id": 391,
+        "hero_name": "Gunnthrá",
+        "skill_id": 1601,
+        "skill_name": "AR-O Spd/Res 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 391,
+        "hero_name": "Gunnthrá",
+        "skill_id": 65,
+        "skill_name": "Steel Dagger",
+        "rarity": 2
+    },
+    {
+        "hero_id": 391,
+        "hero_name": "Gunnthrá",
+        "skill_id": 1602,
+        "skill_name": "AR-O Spd/Res 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 391,
+        "hero_name": "Gunnthrá",
+        "skill_id": 146,
+        "skill_name": "Rally Resistance",
+        "rarity": 3
+    },
+    {
+        "hero_id": 391,
+        "hero_name": "Gunnthrá",
+        "skill_id": 1457,
+        "skill_name": "Disarm Trap 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 391,
+        "hero_name": "Gunnthrá",
+        "skill_id": 1591,
+        "skill_name": "Tropical Treats",
+        "rarity": 3
+    },
+    {
+        "hero_id": 391,
+        "hero_name": "Gunnthrá",
+        "skill_id": 479,
+        "skill_name": "Rally Def/Res",
+        "rarity": 4
+    },
+    {
+        "hero_id": 391,
+        "hero_name": "Gunnthrá",
+        "skill_id": 1458,
+        "skill_name": "Disarm Trap 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 391,
+        "hero_name": "Gunnthrá",
+        "skill_id": 1603,
+        "skill_name": "AR-O Spd/Res 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 391,
+        "hero_name": "Gunnthrá",
+        "skill_id": 1390,
+        "skill_name": "Rally Def/Res+",
+        "rarity": 5
+    },
+    {
+        "hero_id": 391,
+        "hero_name": "Gunnthrá",
+        "skill_id": 1459,
+        "skill_name": "Disarm Trap 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 391,
+        "hero_name": "Gunnthrá",
+        "skill_id": 1592,
+        "skill_name": "Tropical Treats+",
+        "rarity": 5
+    },
+    {
+        "hero_id": 392,
+        "hero_name": "Ylgr",
+        "skill_id": 37,
+        "skill_name": "Iron Axe",
+        "rarity": 1
+    },
+    {
+        "hero_id": 392,
+        "hero_name": "Ylgr",
+        "skill_id": 1174,
+        "skill_name": "Even Def Wave 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 392,
+        "hero_name": "Ylgr",
+        "skill_id": 38,
+        "skill_name": "Steel Axe",
+        "rarity": 2
+    },
+    {
+        "hero_id": 392,
+        "hero_name": "Ylgr",
+        "skill_id": 1175,
+        "skill_name": "Even Def Wave 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 392,
+        "hero_name": "Ylgr",
+        "skill_id": 159,
+        "skill_name": "New Moon",
+        "rarity": 3
+    },
+    {
+        "hero_id": 392,
+        "hero_name": "Ylgr",
+        "skill_id": 713,
+        "skill_name": "Flashing Blade 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 392,
+        "hero_name": "Ylgr",
+        "skill_id": 1589,
+        "skill_name": "Shoreline Rake",
+        "rarity": 3
+    },
+    {
+        "hero_id": 392,
+        "hero_name": "Ylgr",
+        "skill_id": 161,
+        "skill_name": "Luna",
+        "rarity": 4
+    },
+    {
+        "hero_id": 392,
+        "hero_name": "Ylgr",
+        "skill_id": 714,
+        "skill_name": "Flashing Blade 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 392,
+        "hero_name": "Ylgr",
+        "skill_id": 1176,
+        "skill_name": "Even Def Wave 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 392,
+        "hero_name": "Ylgr",
+        "skill_id": 715,
+        "skill_name": "Flashing Blade 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 392,
+        "hero_name": "Ylgr",
+        "skill_id": 1590,
+        "skill_name": "Shoreline Rake+",
+        "rarity": 5
     }
 ]
