@@ -7054,5 +7054,23 @@
         "weapontype": "axe",
         "movetype": "infantry",
         "minrarity": 3
+    },
+    {
+        "hero_id": 393,
+        "name": "Eliwood (Blazing Knight)",
+        "basehp": 18,
+        "baseatk": 6,
+        "basespd": 10,
+        "basedef": 9,
+        "baseres": 3,
+        "hpgrowth": 5,
+        "atkgrowth": 10,
+        "spdgrowth": 7,
+        "defgrowth": 7,
+        "resgrowth": 2,
+        "color": "red",
+        "weapontype": "sword",
+        "movetype": "cavalry",
+        "minrarity": 3
     }
 ]

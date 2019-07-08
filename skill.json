@@ -24862,5 +24862,53 @@
         "weaponinheritrule": "sword,lance,axe,redbow,bluebow,greenbow,bow,reddagger,bluedagger,greendagger,dagger,redtome,bluetome,greentome,staff,redbreath,bluebreath,greenbreath,colorlessbreath,redbeast,bluebeast,greenbeast,colorlessbeast",
         "movetypeinheritrule": "infantry,armored,cavalry,flying",
         "affectsduel": 1
+    },
+    {
+        "skill_id": 1604,
+        "name": "Ardent Durandal",
+        "slot": "weapon",
+        "sp": 0,
+        "description": "$aGrants Atk+3. At start of turn, grants 【Bonus Doubler】to ally with the highest Atk.  【Bonus Doubler】 Grants bonus to Atk/Spd/Def/Res during combat = current bonus on each of unit's stats for 1 turn. Calculates each stat bonus independently.",
+        "hp": 0,
+        "atk": 19,
+        "spd": 0,
+        "def": 0,
+        "res": 0,
+        "charge": 0,
+        "weaponinheritrule": "unique",
+        "movetypeinheritrule": "unique",
+        "affectsduel": 1
+    },
+    {
+        "skill_id": 1605,
+        "name": "Rally Spd/Res+",
+        "slot": "assist",
+        "sp": 0,
+        "description": "Grants Spd/Res+6 to target ally for 1 turn.",
+        "hp": 0,
+        "atk": 0,
+        "spd": 0,
+        "def": 0,
+        "res": 0,
+        "charge": 0,
+        "weaponinheritrule": "sword,lance,axe,redbow,bluebow,greenbow,bow,reddagger,bluedagger,greendagger,dagger,redtome,bluetome,greentome,redbreath,bluebreath,greenbreath,colorlessbreath,redbeast,bluebeast,greenbeast,colorlessbeast",
+        "movetypeinheritrule": "infantry,armored,cavalry,flying",
+        "affectsduel": 1
+    },
+    {
+        "skill_id": 1606,
+        "name": "Vision of Arcadia",
+        "slot": "c",
+        "sp": 0,
+        "description": "At start of turn, if a dragon or beast ally is deployed, grants Atk/Def+6 to ally with the highest Atk for 1 turn.",
+        "hp": 0,
+        "atk": 0,
+        "spd": 0,
+        "def": 0,
+        "res": 0,
+        "charge": 0,
+        "weaponinheritrule": "unique",
+        "movetypeinheritrule": "unique",
+        "affectsduel": 1
     }
 ]
