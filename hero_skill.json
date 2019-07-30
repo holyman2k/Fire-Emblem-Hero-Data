@@ -233,15 +233,15 @@
     {
         "hero_id": 3,
         "hero_name": "Matthew",
-        "skill_id": 73,
-        "skill_name": "Rogue Dagger+",
+        "skill_id": 285,
+        "skill_name": "Poison Strike 3",
         "rarity": 5
     },
     {
         "hero_id": 3,
         "hero_name": "Matthew",
-        "skill_id": 285,
-        "skill_name": "Poison Strike 3",
+        "skill_id": 1609,
+        "skill_name": "Spy's Dagger",
         "rarity": 5
     },
     {
@@ -310,15 +310,15 @@
     {
         "hero_id": 4,
         "hero_name": "Raigh",
-        "skill_id": 85,
-        "skill_name": "Rauðrwolf+",
+        "skill_id": 202,
+        "skill_name": "HP +5",
         "rarity": 5
     },
     {
         "hero_id": 4,
         "hero_name": "Raigh",
-        "skill_id": 202,
-        "skill_name": "HP +5",
+        "skill_id": 1610,
+        "skill_name": "Hermit's Tome",
         "rarity": 5
     },
     {
@@ -10824,15 +10824,15 @@
     {
         "hero_id": 137,
         "hero_name": "Luke",
-        "skill_id": 6,
-        "skill_name": "Brave Sword+",
+        "skill_id": 492,
+        "skill_name": "Panic Ploy 3",
         "rarity": 5
     },
     {
         "hero_id": 137,
         "hero_name": "Luke",
-        "skill_id": 492,
-        "skill_name": "Panic Ploy 3",
+        "skill_id": 1607,
+        "skill_name": "Rowdy Sword",
         "rarity": 5
     },
     {
@@ -10894,15 +10894,15 @@
     {
         "hero_id": 138,
         "hero_name": "Roderick",
-        "skill_id": 472,
-        "skill_name": "Firesweep L+",
+        "skill_id": 486,
+        "skill_name": "Drive Def 2",
         "rarity": 5
     },
     {
         "hero_id": 138,
         "hero_name": "Roderick",
-        "skill_id": 486,
-        "skill_name": "Drive Def 2",
+        "skill_id": 1608,
+        "skill_name": "Steady Lance",
         "rarity": 5
     },
     {
@@ -33688,6 +33688,1056 @@
         "hero_name": "Eliwood",
         "skill_id": 1606,
         "skill_name": "Vision of Arcadia",
+        "rarity": 5
+    },
+    {
+        "hero_id": 394,
+        "hero_name": "Lilina",
+        "skill_id": 64,
+        "skill_name": "Iron Dagger",
+        "rarity": 1
+    },
+    {
+        "hero_id": 394,
+        "hero_name": "Lilina",
+        "skill_id": 1295,
+        "skill_name": "Atk Opening 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 394,
+        "hero_name": "Lilina",
+        "skill_id": 65,
+        "skill_name": "Steel Dagger",
+        "rarity": 2
+    },
+    {
+        "hero_id": 394,
+        "hero_name": "Lilina",
+        "skill_id": 1296,
+        "skill_name": "Atk Opening 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 394,
+        "hero_name": "Lilina",
+        "skill_id": 146,
+        "skill_name": "Rally Resistance",
+        "rarity": 3
+    },
+    {
+        "hero_id": 394,
+        "hero_name": "Lilina",
+        "skill_id": 1168,
+        "skill_name": "Atk/Res Solo 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 394,
+        "hero_name": "Lilina",
+        "skill_id": 1621,
+        "skill_name": "Broadleaf Fan",
+        "rarity": 3
+    },
+    {
+        "hero_id": 394,
+        "hero_name": "Lilina",
+        "skill_id": 1626,
+        "skill_name": "Sabotage Def 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 394,
+        "hero_name": "Lilina",
+        "skill_id": 1169,
+        "skill_name": "Atk/Res Solo 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 394,
+        "hero_name": "Lilina",
+        "skill_id": 1297,
+        "skill_name": "Atk Opening 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 394,
+        "hero_name": "Lilina",
+        "skill_id": 1434,
+        "skill_name": "Rally Up Res",
+        "rarity": 4
+    },
+    {
+        "hero_id": 394,
+        "hero_name": "Lilina",
+        "skill_id": 1627,
+        "skill_name": "Sabotage Def 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 394,
+        "hero_name": "Lilina",
+        "skill_id": 1170,
+        "skill_name": "Atk/Res Solo 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 394,
+        "hero_name": "Lilina",
+        "skill_id": 1435,
+        "skill_name": "Rally Up Res+",
+        "rarity": 5
+    },
+    {
+        "hero_id": 394,
+        "hero_name": "Lilina",
+        "skill_id": 1622,
+        "skill_name": "Broadleaf Fan+",
+        "rarity": 5
+    },
+    {
+        "hero_id": 394,
+        "hero_name": "Lilina",
+        "skill_id": 1628,
+        "skill_name": "Sabotage Def 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 395,
+        "hero_name": "Wolt",
+        "skill_id": 52,
+        "skill_name": "Iron Bow",
+        "rarity": 1
+    },
+    {
+        "hero_id": 395,
+        "hero_name": "Wolt",
+        "skill_id": 890,
+        "skill_name": "Chill Spd 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 395,
+        "hero_name": "Wolt",
+        "skill_id": 53,
+        "skill_name": "Steel Bow",
+        "rarity": 2
+    },
+    {
+        "hero_id": 395,
+        "hero_name": "Wolt",
+        "skill_id": 779,
+        "skill_name": "Brazen Atk/Spd 1",
+        "rarity": 2
+    },
+    {
+        "hero_id": 395,
+        "hero_name": "Wolt",
+        "skill_id": 891,
+        "skill_name": "Chill Spd 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 395,
+        "hero_name": "Wolt",
+        "skill_id": 140,
+        "skill_name": "Draw Back",
+        "rarity": 3
+    },
+    {
+        "hero_id": 395,
+        "hero_name": "Wolt",
+        "skill_id": 780,
+        "skill_name": "Brazen Atk/Spd 2",
+        "rarity": 3
+    },
+    {
+        "hero_id": 395,
+        "hero_name": "Wolt",
+        "skill_id": 1619,
+        "skill_name": "Big-Catch Bow",
+        "rarity": 3
+    },
+    {
+        "hero_id": 395,
+        "hero_name": "Wolt",
+        "skill_id": 781,
+        "skill_name": "Brazen Atk/Spd 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 395,
+        "hero_name": "Wolt",
+        "skill_id": 892,
+        "skill_name": "Chill Spd 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 395,
+        "hero_name": "Wolt",
+        "skill_id": 1620,
+        "skill_name": "Big-Catch Bow+",
+        "rarity": 5
+    },
+    {
+        "hero_id": 395,
+        "hero_name": "Wolt",
+        "skill_id": 1625,
+        "skill_name": "Brazen Atk/Spd 4",
+        "rarity": 5
+    },
+    {
+        "hero_id": 396,
+        "hero_name": "Lyn",
+        "skill_id": 52,
+        "skill_name": "Iron Bow",
+        "rarity": 1
+    },
+    {
+        "hero_id": 396,
+        "hero_name": "Lyn",
+        "skill_id": 1097,
+        "skill_name": "Distant Guard 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 396,
+        "hero_name": "Lyn",
+        "skill_id": 53,
+        "skill_name": "Steel Bow",
+        "rarity": 2
+    },
+    {
+        "hero_id": 396,
+        "hero_name": "Lyn",
+        "skill_id": 221,
+        "skill_name": "Death Blow 1",
+        "rarity": 2
+    },
+    {
+        "hero_id": 396,
+        "hero_name": "Lyn",
+        "skill_id": 1098,
+        "skill_name": "Distant Guard 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 396,
+        "hero_name": "Lyn",
+        "skill_id": 54,
+        "skill_name": "Silver Bow",
+        "rarity": 3
+    },
+    {
+        "hero_id": 396,
+        "hero_name": "Lyn",
+        "skill_id": 141,
+        "skill_name": "Reposition",
+        "rarity": 3
+    },
+    {
+        "hero_id": 396,
+        "hero_name": "Lyn",
+        "skill_id": 480,
+        "skill_name": "Sturdy Blow 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 396,
+        "hero_name": "Lyn",
+        "skill_id": 1206,
+        "skill_name": "Atk/Spd Link 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 396,
+        "hero_name": "Lyn",
+        "skill_id": 481,
+        "skill_name": "Sturdy Blow 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 396,
+        "hero_name": "Lyn",
+        "skill_id": 1099,
+        "skill_name": "Distant Guard 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 396,
+        "hero_name": "Lyn",
+        "skill_id": 1207,
+        "skill_name": "Atk/Spd Link 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 396,
+        "hero_name": "Lyn",
+        "skill_id": 1208,
+        "skill_name": "Atk/Spd Link 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 396,
+        "hero_name": "Lyn",
+        "skill_id": 1333,
+        "skill_name": "Sturdy Impact",
+        "rarity": 5
+    },
+    {
+        "hero_id": 396,
+        "hero_name": "Lyn",
+        "skill_id": 1618,
+        "skill_name": "Deep-Blue Bow",
+        "rarity": 5
+    },
+    {
+        "hero_id": 397,
+        "hero_name": "Ursula",
+        "skill_id": 64,
+        "skill_name": "Iron Dagger",
+        "rarity": 1
+    },
+    {
+        "hero_id": 397,
+        "hero_name": "Ursula",
+        "skill_id": 1131,
+        "skill_name": "Even Res Wave 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 397,
+        "hero_name": "Ursula",
+        "skill_id": 65,
+        "skill_name": "Steel Dagger",
+        "rarity": 2
+    },
+    {
+        "hero_id": 397,
+        "hero_name": "Ursula",
+        "skill_id": 1132,
+        "skill_name": "Even Res Wave 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 397,
+        "hero_name": "Ursula",
+        "skill_id": 144,
+        "skill_name": "Rally Speed",
+        "rarity": 3
+    },
+    {
+        "hero_id": 397,
+        "hero_name": "Ursula",
+        "skill_id": 1623,
+        "skill_name": "Scallop Blade",
+        "rarity": 3
+    },
+    {
+        "hero_id": 397,
+        "hero_name": "Ursula",
+        "skill_id": 1629,
+        "skill_name": "Def/Res Ruse 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 397,
+        "hero_name": "Ursula",
+        "skill_id": 461,
+        "skill_name": "Rally Atk/Spd",
+        "rarity": 4
+    },
+    {
+        "hero_id": 397,
+        "hero_name": "Ursula",
+        "skill_id": 1133,
+        "skill_name": "Even Res Wave 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 397,
+        "hero_name": "Ursula",
+        "skill_id": 1630,
+        "skill_name": "Def/Res Ruse 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 397,
+        "hero_name": "Ursula",
+        "skill_id": 1243,
+        "skill_name": "Rally Atk/Spd+",
+        "rarity": 5
+    },
+    {
+        "hero_id": 397,
+        "hero_name": "Ursula",
+        "skill_id": 1624,
+        "skill_name": "Scallop Blade+",
+        "rarity": 5
+    },
+    {
+        "hero_id": 397,
+        "hero_name": "Ursula",
+        "skill_id": 1631,
+        "skill_name": "Def/Res Ruse 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 398,
+        "hero_name": "Fiora",
+        "skill_id": 1,
+        "skill_name": "Iron Sword",
+        "rarity": 1
+    },
+    {
+        "hero_id": 398,
+        "hero_name": "Fiora",
+        "skill_id": 1171,
+        "skill_name": "Spd/Res Link 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 398,
+        "hero_name": "Fiora",
+        "skill_id": 2,
+        "skill_name": "Steel Sword",
+        "rarity": 2
+    },
+    {
+        "hero_id": 398,
+        "hero_name": "Fiora",
+        "skill_id": 1172,
+        "skill_name": "Spd/Res Link 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 398,
+        "hero_name": "Fiora",
+        "skill_id": 137,
+        "skill_name": "Swap",
+        "rarity": 3
+    },
+    {
+        "hero_id": 398,
+        "hero_name": "Fiora",
+        "skill_id": 607,
+        "skill_name": "Atk Smoke 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 398,
+        "hero_name": "Fiora",
+        "skill_id": 1616,
+        "skill_name": "Petal Parasol",
+        "rarity": 3
+    },
+    {
+        "hero_id": 398,
+        "hero_name": "Fiora",
+        "skill_id": 608,
+        "skill_name": "Atk Smoke 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 398,
+        "hero_name": "Fiora",
+        "skill_id": 1173,
+        "skill_name": "Spd/Res Link 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 398,
+        "hero_name": "Fiora",
+        "skill_id": 609,
+        "skill_name": "Atk Smoke 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 398,
+        "hero_name": "Fiora",
+        "skill_id": 1617,
+        "skill_name": "Petal Parasol+",
+        "rarity": 5
+    },
+    {
+        "hero_id": 399,
+        "hero_name": "Edelgard",
+        "skill_id": 37,
+        "skill_name": "Iron Axe",
+        "rarity": 1
+    },
+    {
+        "hero_id": 399,
+        "hero_name": "Edelgard",
+        "skill_id": 1042,
+        "skill_name": "Dull Close 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 399,
+        "hero_name": "Edelgard",
+        "skill_id": 38,
+        "skill_name": "Steel Axe",
+        "rarity": 2
+    },
+    {
+        "hero_id": 399,
+        "hero_name": "Edelgard",
+        "skill_id": 1043,
+        "skill_name": "Dull Close 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 399,
+        "hero_name": "Edelgard",
+        "skill_id": 39,
+        "skill_name": "Silver Axe",
+        "rarity": 3
+    },
+    {
+        "hero_id": 399,
+        "hero_name": "Edelgard",
+        "skill_id": 159,
+        "skill_name": "New Moon",
+        "rarity": 3
+    },
+    {
+        "hero_id": 399,
+        "hero_name": "Edelgard",
+        "skill_id": 1292,
+        "skill_name": "Atk/Def Solo 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 399,
+        "hero_name": "Edelgard",
+        "skill_id": 1644,
+        "skill_name": "Rouse Atk/Def 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 399,
+        "hero_name": "Edelgard",
+        "skill_id": 161,
+        "skill_name": "Luna",
+        "rarity": 4
+    },
+    {
+        "hero_id": 399,
+        "hero_name": "Edelgard",
+        "skill_id": 1044,
+        "skill_name": "Dull Close 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 399,
+        "hero_name": "Edelgard",
+        "skill_id": 1293,
+        "skill_name": "Atk/Def Solo 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 399,
+        "hero_name": "Edelgard",
+        "skill_id": 1645,
+        "skill_name": "Rouse Atk/Def 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 399,
+        "hero_name": "Edelgard",
+        "skill_id": 1294,
+        "skill_name": "Atk/Def Solo 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 399,
+        "hero_name": "Edelgard",
+        "skill_id": 1634,
+        "skill_name": "Victorious Axe",
+        "rarity": 5
+    },
+    {
+        "hero_id": 399,
+        "hero_name": "Edelgard",
+        "skill_id": 1646,
+        "skill_name": "Rouse Atk/Def 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 400,
+        "hero_name": "Dimitri",
+        "skill_id": 23,
+        "skill_name": "Iron Lance",
+        "rarity": 1
+    },
+    {
+        "hero_id": 400,
+        "hero_name": "Dimitri",
+        "skill_id": 1638,
+        "skill_name": "Lull Atk/Def 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 400,
+        "hero_name": "Dimitri",
+        "skill_id": 24,
+        "skill_name": "Steel Lance",
+        "rarity": 2
+    },
+    {
+        "hero_id": 400,
+        "hero_name": "Dimitri",
+        "skill_id": 221,
+        "skill_name": "Death Blow 1",
+        "rarity": 2
+    },
+    {
+        "hero_id": 400,
+        "hero_name": "Dimitri",
+        "skill_id": 1639,
+        "skill_name": "Lull Atk/Def 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 400,
+        "hero_name": "Dimitri",
+        "skill_id": 25,
+        "skill_name": "Silver Lance",
+        "rarity": 3
+    },
+    {
+        "hero_id": 400,
+        "hero_name": "Dimitri",
+        "skill_id": 162,
+        "skill_name": "Retribution",
+        "rarity": 3
+    },
+    {
+        "hero_id": 400,
+        "hero_name": "Dimitri",
+        "skill_id": 222,
+        "skill_name": "Death Blow 2",
+        "rarity": 3
+    },
+    {
+        "hero_id": 400,
+        "hero_name": "Dimitri",
+        "skill_id": 164,
+        "skill_name": "Vengeance",
+        "rarity": 4
+    },
+    {
+        "hero_id": 400,
+        "hero_name": "Dimitri",
+        "skill_id": 223,
+        "skill_name": "Death Blow 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 400,
+        "hero_name": "Dimitri",
+        "skill_id": 1640,
+        "skill_name": "Lull Atk/Def 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 400,
+        "hero_name": "Dimitri",
+        "skill_id": 1126,
+        "skill_name": "Death Blow 4",
+        "rarity": 5
+    },
+    {
+        "hero_id": 400,
+        "hero_name": "Dimitri",
+        "skill_id": 1633,
+        "skill_name": "Noble Lance",
+        "rarity": 5
+    },
+    {
+        "hero_id": 401,
+        "hero_name": "Claude",
+        "skill_id": 52,
+        "skill_name": "Iron Bow",
+        "rarity": 1
+    },
+    {
+        "hero_id": 401,
+        "hero_name": "Claude",
+        "skill_id": 934,
+        "skill_name": "Def Smoke 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 401,
+        "hero_name": "Claude",
+        "skill_id": 53,
+        "skill_name": "Steel Bow",
+        "rarity": 2
+    },
+    {
+        "hero_id": 401,
+        "hero_name": "Claude",
+        "skill_id": 935,
+        "skill_name": "Def Smoke 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 401,
+        "hero_name": "Claude",
+        "skill_id": 54,
+        "skill_name": "Silver Bow",
+        "rarity": 3
+    },
+    {
+        "hero_id": 401,
+        "hero_name": "Claude",
+        "skill_id": 153,
+        "skill_name": "Night Sky",
+        "rarity": 3
+    },
+    {
+        "hero_id": 401,
+        "hero_name": "Claude",
+        "skill_id": 1641,
+        "skill_name": "Lull Spd/Def 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 401,
+        "hero_name": "Claude",
+        "skill_id": 154,
+        "skill_name": "Glimmer",
+        "rarity": 4
+    },
+    {
+        "hero_id": 401,
+        "hero_name": "Claude",
+        "skill_id": 936,
+        "skill_name": "Def Smoke 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 401,
+        "hero_name": "Claude",
+        "skill_id": 1642,
+        "skill_name": "Lull Spd/Def 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 401,
+        "hero_name": "Claude",
+        "skill_id": 1635,
+        "skill_name": "Cunning Bow",
+        "rarity": 5
+    },
+    {
+        "hero_id": 401,
+        "hero_name": "Claude",
+        "skill_id": 1643,
+        "skill_name": "Lull Spd/Def 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 402,
+        "hero_name": "Byleth",
+        "skill_id": 1,
+        "skill_name": "Iron Sword",
+        "rarity": 1
+    },
+    {
+        "hero_id": 402,
+        "hero_name": "Byleth",
+        "skill_id": 1209,
+        "skill_name": "Even Atk Wave 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 402,
+        "hero_name": "Byleth",
+        "skill_id": 2,
+        "skill_name": "Steel Sword",
+        "rarity": 2
+    },
+    {
+        "hero_id": 402,
+        "hero_name": "Byleth",
+        "skill_id": 215,
+        "skill_name": "Fury 1",
+        "rarity": 2
+    },
+    {
+        "hero_id": 402,
+        "hero_name": "Byleth",
+        "skill_id": 1210,
+        "skill_name": "Even Atk Wave 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 402,
+        "hero_name": "Byleth",
+        "skill_id": 3,
+        "skill_name": "Silver Sword",
+        "rarity": 3
+    },
+    {
+        "hero_id": 402,
+        "hero_name": "Byleth",
+        "skill_id": 165,
+        "skill_name": "Dragon Gaze",
+        "rarity": 3
+    },
+    {
+        "hero_id": 402,
+        "hero_name": "Byleth",
+        "skill_id": 216,
+        "skill_name": "Fury 2",
+        "rarity": 3
+    },
+    {
+        "hero_id": 402,
+        "hero_name": "Byleth",
+        "skill_id": 623,
+        "skill_name": "Wrath 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 402,
+        "hero_name": "Byleth",
+        "skill_id": 166,
+        "skill_name": "Draconic Aura",
+        "rarity": 4
+    },
+    {
+        "hero_id": 402,
+        "hero_name": "Byleth",
+        "skill_id": 217,
+        "skill_name": "Fury 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 402,
+        "hero_name": "Byleth",
+        "skill_id": 624,
+        "skill_name": "Wrath 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 402,
+        "hero_name": "Byleth",
+        "skill_id": 1211,
+        "skill_name": "Even Atk Wave 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 402,
+        "hero_name": "Byleth",
+        "skill_id": 625,
+        "skill_name": "Wrath 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 402,
+        "hero_name": "Byleth",
+        "skill_id": 1391,
+        "skill_name": "Fury 4",
+        "rarity": 5
+    },
+    {
+        "hero_id": 402,
+        "hero_name": "Byleth",
+        "skill_id": 1632,
+        "skill_name": "Creator Sword",
+        "rarity": 5
+    },
+    {
+        "hero_id": 402,
+        "hero_name": "Byleth",
+        "skill_id": 1637,
+        "skill_name": "Ruptured Sky",
+        "rarity": 5
+    },
+    {
+        "hero_id": 403,
+        "hero_name": "Byleth",
+        "skill_id": 1,
+        "skill_name": "Iron Sword",
+        "rarity": 1
+    },
+    {
+        "hero_id": 403,
+        "hero_name": "Byleth",
+        "skill_id": 1183,
+        "skill_name": "Odd Spd Wave 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 403,
+        "hero_name": "Byleth",
+        "skill_id": 2,
+        "skill_name": "Steel Sword",
+        "rarity": 2
+    },
+    {
+        "hero_id": 403,
+        "hero_name": "Byleth",
+        "skill_id": 1184,
+        "skill_name": "Odd Spd Wave 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 403,
+        "hero_name": "Byleth",
+        "skill_id": 3,
+        "skill_name": "Silver Sword",
+        "rarity": 3
+    },
+    {
+        "hero_id": 403,
+        "hero_name": "Byleth",
+        "skill_id": 165,
+        "skill_name": "Dragon Gaze",
+        "rarity": 3
+    },
+    {
+        "hero_id": 403,
+        "hero_name": "Byleth",
+        "skill_id": 890,
+        "skill_name": "Chill Spd 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 403,
+        "hero_name": "Byleth",
+        "skill_id": 166,
+        "skill_name": "Draconic Aura",
+        "rarity": 4
+    },
+    {
+        "hero_id": 403,
+        "hero_name": "Byleth",
+        "skill_id": 891,
+        "skill_name": "Chill Spd 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 403,
+        "hero_name": "Byleth",
+        "skill_id": 1185,
+        "skill_name": "Odd Spd Wave 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 403,
+        "hero_name": "Byleth",
+        "skill_id": 249,
+        "skill_name": "Distant Counter",
+        "rarity": 5
+    },
+    {
+        "hero_id": 403,
+        "hero_name": "Byleth",
+        "skill_id": 892,
+        "skill_name": "Chill Spd 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 403,
+        "hero_name": "Byleth",
+        "skill_id": 1632,
+        "skill_name": "Creator Sword",
+        "rarity": 5
+    },
+    {
+        "hero_id": 403,
+        "hero_name": "Byleth",
+        "skill_id": 1637,
+        "skill_name": "Ruptured Sky",
+        "rarity": 5
+    },
+    {
+        "hero_id": 404,
+        "hero_name": "Kronya",
+        "skill_id": 64,
+        "skill_name": "Iron Dagger",
+        "rarity": 1
+    },
+    {
+        "hero_id": 404,
+        "hero_name": "Kronya",
+        "skill_id": 1097,
+        "skill_name": "Distant Guard 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 404,
+        "hero_name": "Kronya",
+        "skill_id": 65,
+        "skill_name": "Steel Dagger",
+        "rarity": 2
+    },
+    {
+        "hero_id": 404,
+        "hero_name": "Kronya",
+        "skill_id": 1098,
+        "skill_name": "Distant Guard 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 404,
+        "hero_name": "Kronya",
+        "skill_id": 66,
+        "skill_name": "Silver Dagger",
+        "rarity": 3
+    },
+    {
+        "hero_id": 404,
+        "hero_name": "Kronya",
+        "skill_id": 159,
+        "skill_name": "New Moon",
+        "rarity": 3
+    },
+    {
+        "hero_id": 404,
+        "hero_name": "Kronya",
+        "skill_id": 271,
+        "skill_name": "Desperation 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 404,
+        "hero_name": "Kronya",
+        "skill_id": 161,
+        "skill_name": "Luna",
+        "rarity": 4
+    },
+    {
+        "hero_id": 404,
+        "hero_name": "Kronya",
+        "skill_id": 272,
+        "skill_name": "Desperation 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 404,
+        "hero_name": "Kronya",
+        "skill_id": 1099,
+        "skill_name": "Distant Guard 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 404,
+        "hero_name": "Kronya",
+        "skill_id": 273,
+        "skill_name": "Desperation 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 404,
+        "hero_name": "Kronya",
+        "skill_id": 1636,
+        "skill_name": "Athame",
         "rarity": 5
     }
 ]
