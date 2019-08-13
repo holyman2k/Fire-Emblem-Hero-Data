@@ -1626,15 +1626,15 @@
     {
         "hero_id": 20,
         "hero_name": "Selena",
-        "skill_id": 10,
-        "skill_name": "Armorslayer+",
+        "skill_id": 247,
+        "skill_name": "Triangle Adept 3",
         "rarity": 5
     },
     {
         "hero_id": 20,
         "hero_name": "Selena",
-        "skill_id": 247,
-        "skill_name": "Triangle Adept 3",
+        "skill_id": 1652,
+        "skill_name": "Selena's Blade",
         "rarity": 5
     },
     {
@@ -4930,8 +4930,8 @@
     {
         "hero_id": 62,
         "hero_name": "Beruka",
-        "skill_id": 44,
-        "skill_name": "Killer Axe+",
+        "skill_id": 1653,
+        "skill_name": "Beruka's Axe",
         "rarity": 5
     },
     {
@@ -10152,8 +10152,8 @@
     {
         "hero_id": 128,
         "hero_name": "Mae",
-        "skill_id": 439,
-        "skill_name": "Blárowl+",
+        "skill_id": 1654,
+        "skill_name": "Book of Orchids",
         "rarity": 5
     },
     {
@@ -10236,8 +10236,8 @@
     {
         "hero_id": 129,
         "hero_name": "Boey",
-        "skill_id": 441,
-        "skill_name": "Gronnowl+",
+        "skill_id": 1655,
+        "skill_name": "Inscribed Tome",
         "rarity": 5
     },
     {
@@ -34738,6 +34738,580 @@
         "hero_name": "Kronya",
         "skill_id": 1636,
         "skill_name": "Athame",
+        "rarity": 5
+    },
+    {
+        "hero_id": 405,
+        "hero_name": "Sothis",
+        "skill_id": 120,
+        "skill_name": "Fire Breath",
+        "rarity": 1
+    },
+    {
+        "hero_id": 405,
+        "hero_name": "Sothis",
+        "skill_id": 1225,
+        "skill_name": "Atk/Spd Solo 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 405,
+        "hero_name": "Sothis",
+        "skill_id": 121,
+        "skill_name": "Fire Breath+",
+        "rarity": 2
+    },
+    {
+        "hero_id": 405,
+        "hero_name": "Sothis",
+        "skill_id": 1226,
+        "skill_name": "Atk/Spd Solo 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 405,
+        "hero_name": "Sothis",
+        "skill_id": 122,
+        "skill_name": "Flametongue",
+        "rarity": 3
+    },
+    {
+        "hero_id": 405,
+        "hero_name": "Sothis",
+        "skill_id": 156,
+        "skill_name": "Daylight",
+        "rarity": 3
+    },
+    {
+        "hero_id": 405,
+        "hero_name": "Sothis",
+        "skill_id": 623,
+        "skill_name": "Wrath 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 405,
+        "hero_name": "Sothis",
+        "skill_id": 1649,
+        "skill_name": "Time's Pulse 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 405,
+        "hero_name": "Sothis",
+        "skill_id": 157,
+        "skill_name": "Noontime",
+        "rarity": 4
+    },
+    {
+        "hero_id": 405,
+        "hero_name": "Sothis",
+        "skill_id": 624,
+        "skill_name": "Wrath 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 405,
+        "hero_name": "Sothis",
+        "skill_id": 1227,
+        "skill_name": "Atk/Spd Solo 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 405,
+        "hero_name": "Sothis",
+        "skill_id": 1650,
+        "skill_name": "Time's Pulse 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 405,
+        "hero_name": "Sothis",
+        "skill_id": 625,
+        "skill_name": "Wrath 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 405,
+        "hero_name": "Sothis",
+        "skill_id": 1647,
+        "skill_name": "Sublime Surge",
+        "rarity": 5
+    },
+    {
+        "hero_id": 405,
+        "hero_name": "Sothis",
+        "skill_id": 1648,
+        "skill_name": "Sirius",
+        "rarity": 5
+    },
+    {
+        "hero_id": 405,
+        "hero_name": "Sothis",
+        "skill_id": 1651,
+        "skill_name": "Time's Pulse 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 406,
+        "hero_name": "Hubert",
+        "skill_id": 78,
+        "skill_name": "Flux",
+        "rarity": 1
+    },
+    {
+        "hero_id": 406,
+        "hero_name": "Hubert",
+        "skill_id": 931,
+        "skill_name": "Chill Res 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 406,
+        "hero_name": "Hubert",
+        "skill_id": 79,
+        "skill_name": "Ruin",
+        "rarity": 2
+    },
+    {
+        "hero_id": 406,
+        "hero_name": "Hubert",
+        "skill_id": 932,
+        "skill_name": "Chill Res 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 406,
+        "hero_name": "Hubert",
+        "skill_id": 180,
+        "skill_name": "Rising Thunder",
+        "rarity": 3
+    },
+    {
+        "hero_id": 406,
+        "hero_name": "Hubert",
+        "skill_id": 1664,
+        "skill_name": "Rauðrfox",
+        "rarity": 3
+    },
+    {
+        "hero_id": 406,
+        "hero_name": "Hubert",
+        "skill_id": 1672,
+        "skill_name": "Inf. Hexblade 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 406,
+        "hero_name": "Hubert",
+        "skill_id": 181,
+        "skill_name": "Growing Thunder",
+        "rarity": 4
+    },
+    {
+        "hero_id": 406,
+        "hero_name": "Hubert",
+        "skill_id": 933,
+        "skill_name": "Chill Res 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 406,
+        "hero_name": "Hubert",
+        "skill_id": 1673,
+        "skill_name": "Inf. Hexblade 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 406,
+        "hero_name": "Hubert",
+        "skill_id": 1665,
+        "skill_name": "Rauðrfox+",
+        "rarity": 5
+    },
+    {
+        "hero_id": 406,
+        "hero_name": "Hubert",
+        "skill_id": 1674,
+        "skill_name": "Inf. Hexblade 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 407,
+        "hero_name": "Petra",
+        "skill_id": 64,
+        "skill_name": "Iron Dagger",
+        "rarity": 1
+    },
+    {
+        "hero_id": 407,
+        "hero_name": "Petra",
+        "skill_id": 1026,
+        "skill_name": "Aerobatics 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 407,
+        "hero_name": "Petra",
+        "skill_id": 65,
+        "skill_name": "Steel Dagger",
+        "rarity": 2
+    },
+    {
+        "hero_id": 407,
+        "hero_name": "Petra",
+        "skill_id": 1027,
+        "skill_name": "Aerobatics 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 407,
+        "hero_name": "Petra",
+        "skill_id": 66,
+        "skill_name": "Silver Dagger",
+        "rarity": 3
+    },
+    {
+        "hero_id": 407,
+        "hero_name": "Petra",
+        "skill_id": 159,
+        "skill_name": "New Moon",
+        "rarity": 3
+    },
+    {
+        "hero_id": 407,
+        "hero_name": "Petra",
+        "skill_id": 1542,
+        "skill_name": "Ground Orders 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 407,
+        "hero_name": "Petra",
+        "skill_id": 1666,
+        "skill_name": "Atk/Spd Form 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 407,
+        "hero_name": "Petra",
+        "skill_id": 161,
+        "skill_name": "Luna",
+        "rarity": 4
+    },
+    {
+        "hero_id": 407,
+        "hero_name": "Petra",
+        "skill_id": 1028,
+        "skill_name": "Aerobatics 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 407,
+        "hero_name": "Petra",
+        "skill_id": 1543,
+        "skill_name": "Ground Orders 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 407,
+        "hero_name": "Petra",
+        "skill_id": 1667,
+        "skill_name": "Atk/Spd Form 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 407,
+        "hero_name": "Petra",
+        "skill_id": 1544,
+        "skill_name": "Ground Orders 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 407,
+        "hero_name": "Petra",
+        "skill_id": 1663,
+        "skill_name": "Hunting Blade",
+        "rarity": 5
+    },
+    {
+        "hero_id": 407,
+        "hero_name": "Petra",
+        "skill_id": 1668,
+        "skill_name": "Atk/Spd Form 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 408,
+        "hero_name": "Mercedes",
+        "skill_id": 113,
+        "skill_name": "Assault",
+        "rarity": 1
+    },
+    {
+        "hero_id": 408,
+        "hero_name": "Mercedes",
+        "skill_id": 130,
+        "skill_name": "Heal",
+        "rarity": 1
+    },
+    {
+        "hero_id": 408,
+        "hero_name": "Mercedes",
+        "skill_id": 1071,
+        "skill_name": "Odd Res Wave 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 408,
+        "hero_name": "Mercedes",
+        "skill_id": 193,
+        "skill_name": "Imbue",
+        "rarity": 2
+    },
+    {
+        "hero_id": 408,
+        "hero_name": "Mercedes",
+        "skill_id": 1072,
+        "skill_name": "Odd Res Wave 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 408,
+        "hero_name": "Mercedes",
+        "skill_id": 117,
+        "skill_name": "Gravity",
+        "rarity": 3
+    },
+    {
+        "hero_id": 408,
+        "hero_name": "Mercedes",
+        "skill_id": 192,
+        "skill_name": "Miracle",
+        "rarity": 3
+    },
+    {
+        "hero_id": 408,
+        "hero_name": "Mercedes",
+        "skill_id": 1669,
+        "skill_name": "AR-D Spd/Res 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 408,
+        "hero_name": "Mercedes",
+        "skill_id": 1073,
+        "skill_name": "Odd Res Wave 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 408,
+        "hero_name": "Mercedes",
+        "skill_id": 1670,
+        "skill_name": "AR-D Spd/Res 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 408,
+        "hero_name": "Mercedes",
+        "skill_id": 733,
+        "skill_name": "Gravity+",
+        "rarity": 5
+    },
+    {
+        "hero_id": 408,
+        "hero_name": "Mercedes",
+        "skill_id": 1671,
+        "skill_name": "AR-D Spd/Res 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 409,
+        "hero_name": "Hilda",
+        "skill_id": 37,
+        "skill_name": "Iron Axe",
+        "rarity": 1
+    },
+    {
+        "hero_id": 409,
+        "hero_name": "Hilda",
+        "skill_id": 1504,
+        "skill_name": "Def Opening 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 409,
+        "hero_name": "Hilda",
+        "skill_id": 38,
+        "skill_name": "Steel Axe",
+        "rarity": 2
+    },
+    {
+        "hero_id": 409,
+        "hero_name": "Hilda",
+        "skill_id": 1505,
+        "skill_name": "Def Opening 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 409,
+        "hero_name": "Hilda",
+        "skill_id": 39,
+        "skill_name": "Silver Axe",
+        "rarity": 3
+    },
+    {
+        "hero_id": 409,
+        "hero_name": "Hilda",
+        "skill_id": 159,
+        "skill_name": "New Moon",
+        "rarity": 3
+    },
+    {
+        "hero_id": 409,
+        "hero_name": "Hilda",
+        "skill_id": 1225,
+        "skill_name": "Atk/Spd Solo 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 409,
+        "hero_name": "Hilda",
+        "skill_id": 1249,
+        "skill_name": "Null Follow-Up 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 409,
+        "hero_name": "Hilda",
+        "skill_id": 160,
+        "skill_name": "Moonbow",
+        "rarity": 4
+    },
+    {
+        "hero_id": 409,
+        "hero_name": "Hilda",
+        "skill_id": 1226,
+        "skill_name": "Atk/Spd Solo 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 409,
+        "hero_name": "Hilda",
+        "skill_id": 1250,
+        "skill_name": "Null Follow-Up 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 409,
+        "hero_name": "Hilda",
+        "skill_id": 1506,
+        "skill_name": "Def Opening 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 409,
+        "hero_name": "Hilda",
+        "skill_id": 1227,
+        "skill_name": "Atk/Spd Solo 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 409,
+        "hero_name": "Hilda",
+        "skill_id": 1251,
+        "skill_name": "Null Follow-Up 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 409,
+        "hero_name": "Hilda",
+        "skill_id": 1662,
+        "skill_name": "Freikugel",
+        "rarity": 5
+    },
+    {
+        "hero_id": 410,
+        "hero_name": "Death Knight",
+        "skill_id": 23,
+        "skill_name": "Iron Lance",
+        "rarity": 1
+    },
+    {
+        "hero_id": 410,
+        "hero_name": "Death Knight",
+        "skill_id": 1134,
+        "skill_name": "Close Guard 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 410,
+        "hero_name": "Death Knight",
+        "skill_id": 24,
+        "skill_name": "Steel Lance",
+        "rarity": 2
+    },
+    {
+        "hero_id": 410,
+        "hero_name": "Death Knight",
+        "skill_id": 1135,
+        "skill_name": "Close Guard 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 410,
+        "hero_name": "Death Knight",
+        "skill_id": 25,
+        "skill_name": "Silver Lance",
+        "rarity": 3
+    },
+    {
+        "hero_id": 410,
+        "hero_name": "Death Knight",
+        "skill_id": 174,
+        "skill_name": "Rising Flame",
+        "rarity": 3
+    },
+    {
+        "hero_id": 410,
+        "hero_name": "Death Knight",
+        "skill_id": 265,
+        "skill_name": "Escape Route 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 410,
+        "hero_name": "Death Knight",
+        "skill_id": 176,
+        "skill_name": "Blazing Flame",
+        "rarity": 4
+    },
+    {
+        "hero_id": 410,
+        "hero_name": "Death Knight",
+        "skill_id": 266,
+        "skill_name": "Escape Route 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 410,
+        "hero_name": "Death Knight",
+        "skill_id": 1136,
+        "skill_name": "Close Guard 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 410,
+        "hero_name": "Death Knight",
+        "skill_id": 267,
+        "skill_name": "Escape Route 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 410,
+        "hero_name": "Death Knight",
+        "skill_id": 1661,
+        "skill_name": "Scythe of Sariel",
         "rarity": 5
     }
 ]
