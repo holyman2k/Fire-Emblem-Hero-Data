@@ -35313,5 +35313,509 @@
         "skill_id": 1661,
         "skill_name": "Scythe of Sariel",
         "rarity": 5
+    },
+    {
+        "hero_id": 411,
+        "hero_name": "Alm",
+        "skill_id": 1,
+        "skill_name": "Iron Sword",
+        "rarity": 1
+    },
+    {
+        "hero_id": 411,
+        "hero_name": "Alm",
+        "skill_id": 913,
+        "skill_name": "Chill Def 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 411,
+        "hero_name": "Alm",
+        "skill_id": 2,
+        "skill_name": "Steel Sword",
+        "rarity": 2
+    },
+    {
+        "hero_id": 411,
+        "hero_name": "Alm",
+        "skill_id": 370,
+        "skill_name": "Threaten Atk 1",
+        "rarity": 2
+    },
+    {
+        "hero_id": 411,
+        "hero_name": "Alm",
+        "skill_id": 914,
+        "skill_name": "Chill Def 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 411,
+        "hero_name": "Alm",
+        "skill_id": 3,
+        "skill_name": "Silver Sword",
+        "rarity": 3
+    },
+    {
+        "hero_id": 411,
+        "hero_name": "Alm",
+        "skill_id": 165,
+        "skill_name": "Dragon Gaze",
+        "rarity": 3
+    },
+    {
+        "hero_id": 411,
+        "hero_name": "Alm",
+        "skill_id": 1686,
+        "skill_name": "Threat. Atk/Spd 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 411,
+        "hero_name": "Alm",
+        "skill_id": 166,
+        "skill_name": "Draconic Aura",
+        "rarity": 4
+    },
+    {
+        "hero_id": 411,
+        "hero_name": "Alm",
+        "skill_id": 915,
+        "skill_name": "Chill Def 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 411,
+        "hero_name": "Alm",
+        "skill_id": 1687,
+        "skill_name": "Threat. Atk/Spd 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 411,
+        "hero_name": "Alm",
+        "skill_id": 1675,
+        "skill_name": "Dracofalchion",
+        "rarity": 5
+    },
+    {
+        "hero_id": 411,
+        "hero_name": "Alm",
+        "skill_id": 1679,
+        "skill_name": "Scendscale",
+        "rarity": 5
+    },
+    {
+        "hero_id": 411,
+        "hero_name": "Alm",
+        "skill_id": 1688,
+        "skill_name": "Threat. Atk/Spd 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 412,
+        "hero_name": "Eliwood",
+        "skill_id": 23,
+        "skill_name": "Iron Lance",
+        "rarity": 1
+    },
+    {
+        "hero_id": 412,
+        "hero_name": "Eliwood",
+        "skill_id": 1357,
+        "skill_name": "Spd Opening 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 412,
+        "hero_name": "Eliwood",
+        "skill_id": 24,
+        "skill_name": "Steel Lance",
+        "rarity": 2
+    },
+    {
+        "hero_id": 412,
+        "hero_name": "Eliwood",
+        "skill_id": 221,
+        "skill_name": "Death Blow 1",
+        "rarity": 2
+    },
+    {
+        "hero_id": 412,
+        "hero_name": "Eliwood",
+        "skill_id": 1358,
+        "skill_name": "Spd Opening 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 412,
+        "hero_name": "Eliwood",
+        "skill_id": 25,
+        "skill_name": "Silver Lance",
+        "rarity": 3
+    },
+    {
+        "hero_id": 412,
+        "hero_name": "Eliwood",
+        "skill_id": 143,
+        "skill_name": "Rally Attack",
+        "rarity": 3
+    },
+    {
+        "hero_id": 412,
+        "hero_name": "Eliwood",
+        "skill_id": 403,
+        "skill_name": "Swift Sparrow 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 412,
+        "hero_name": "Eliwood",
+        "skill_id": 1683,
+        "skill_name": "Atk/Spd Ruse 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 412,
+        "hero_name": "Eliwood",
+        "skill_id": 404,
+        "skill_name": "Swift Sparrow 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 412,
+        "hero_name": "Eliwood",
+        "skill_id": 763,
+        "skill_name": "Rally Atk/Def",
+        "rarity": 4
+    },
+    {
+        "hero_id": 412,
+        "hero_name": "Eliwood",
+        "skill_id": 1359,
+        "skill_name": "Spd Opening 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 412,
+        "hero_name": "Eliwood",
+        "skill_id": 1684,
+        "skill_name": "Atk/Spd Ruse 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 412,
+        "hero_name": "Eliwood",
+        "skill_id": 1482,
+        "skill_name": "Rally Atk/Def+",
+        "rarity": 5
+    },
+    {
+        "hero_id": 412,
+        "hero_name": "Eliwood",
+        "skill_id": 1596,
+        "skill_name": "Swift Sparrow 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 412,
+        "hero_name": "Eliwood",
+        "skill_id": 1676,
+        "skill_name": "Ninis's Ice Lance",
+        "rarity": 5
+    },
+    {
+        "hero_id": 412,
+        "hero_name": "Eliwood",
+        "skill_id": 1685,
+        "skill_name": "Atk/Spd Ruse 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 413,
+        "hero_name": "Micaiah",
+        "skill_id": 101,
+        "skill_name": "Wind",
+        "rarity": 1
+    },
+    {
+        "hero_id": 413,
+        "hero_name": "Micaiah",
+        "skill_id": 1542,
+        "skill_name": "Ground Orders 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 413,
+        "hero_name": "Micaiah",
+        "skill_id": 102,
+        "skill_name": "Elwind",
+        "rarity": 2
+    },
+    {
+        "hero_id": 413,
+        "hero_name": "Micaiah",
+        "skill_id": 698,
+        "skill_name": "Atk/Res Bond 1",
+        "rarity": 2
+    },
+    {
+        "hero_id": 413,
+        "hero_name": "Micaiah",
+        "skill_id": 1543,
+        "skill_name": "Ground Orders 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 413,
+        "hero_name": "Micaiah",
+        "skill_id": 103,
+        "skill_name": "Rexcalibur",
+        "rarity": 3
+    },
+    {
+        "hero_id": 413,
+        "hero_name": "Micaiah",
+        "skill_id": 147,
+        "skill_name": "Ardent Sacrifice",
+        "rarity": 3
+    },
+    {
+        "hero_id": 413,
+        "hero_name": "Micaiah",
+        "skill_id": 699,
+        "skill_name": "Atk/Res Bond 2",
+        "rarity": 3
+    },
+    {
+        "hero_id": 413,
+        "hero_name": "Micaiah",
+        "skill_id": 700,
+        "skill_name": "Atk/Res Bond 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 413,
+        "hero_name": "Micaiah",
+        "skill_id": 1544,
+        "skill_name": "Ground Orders 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 413,
+        "hero_name": "Micaiah",
+        "skill_id": 821,
+        "skill_name": "Sacrifice",
+        "rarity": 5
+    },
+    {
+        "hero_id": 413,
+        "hero_name": "Micaiah",
+        "skill_id": 1677,
+        "skill_name": "Light of Dawn",
+        "rarity": 5
+    },
+    {
+        "hero_id": 413,
+        "hero_name": "Micaiah",
+        "skill_id": 1680,
+        "skill_name": "Atk/Res Bond 4",
+        "rarity": 5
+    },
+    {
+        "hero_id": 413,
+        "hero_name": "Micaiah",
+        "skill_id": 1682,
+        "skill_name": "Yune's Whispers",
+        "rarity": 5
+    },
+    {
+        "hero_id": 414,
+        "hero_name": "Camilla",
+        "skill_id": 113,
+        "skill_name": "Assault",
+        "rarity": 1
+    },
+    {
+        "hero_id": 414,
+        "hero_name": "Camilla",
+        "skill_id": 130,
+        "skill_name": "Heal",
+        "rarity": 1
+    },
+    {
+        "hero_id": 414,
+        "hero_name": "Camilla",
+        "skill_id": 764,
+        "skill_name": "Atk Tactic 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 414,
+        "hero_name": "Camilla",
+        "skill_id": 134,
+        "skill_name": "Reconcile",
+        "rarity": 2
+    },
+    {
+        "hero_id": 414,
+        "hero_name": "Camilla",
+        "skill_id": 765,
+        "skill_name": "Atk Tactic 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 414,
+        "hero_name": "Camilla",
+        "skill_id": 1039,
+        "skill_name": "Atk/Spd Push 1",
+        "rarity": 2
+    },
+    {
+        "hero_id": 414,
+        "hero_name": "Camilla",
+        "skill_id": 448,
+        "skill_name": "Wrathful Staff 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 414,
+        "hero_name": "Camilla",
+        "skill_id": 952,
+        "skill_name": "Restore",
+        "rarity": 3
+    },
+    {
+        "hero_id": 414,
+        "hero_name": "Camilla",
+        "skill_id": 1040,
+        "skill_name": "Atk/Spd Push 2",
+        "rarity": 3
+    },
+    {
+        "hero_id": 414,
+        "hero_name": "Camilla",
+        "skill_id": 449,
+        "skill_name": "Wrathful Staff 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 414,
+        "hero_name": "Camilla",
+        "skill_id": 766,
+        "skill_name": "Atk Tactic 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 414,
+        "hero_name": "Camilla",
+        "skill_id": 1041,
+        "skill_name": "Atk/Spd Push 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 414,
+        "hero_name": "Camilla",
+        "skill_id": 450,
+        "skill_name": "Wrathful Staff 3",
+        "rarity": 5
+    },
+    {
+        "hero_id": 414,
+        "hero_name": "Camilla",
+        "skill_id": 953,
+        "skill_name": "Restore+",
+        "rarity": 5
+    },
+    {
+        "hero_id": 414,
+        "hero_name": "Camilla",
+        "skill_id": 1678,
+        "skill_name": "Sanngriðr",
+        "rarity": 5
+    },
+    {
+        "hero_id": 414,
+        "hero_name": "Camilla",
+        "skill_id": 1681,
+        "skill_name": "Atk/Spd Push 4",
+        "rarity": 5
+    },
+    {
+        "hero_id": 415,
+        "hero_name": "Sigrun",
+        "skill_id": 23,
+        "skill_name": "Iron Lance",
+        "rarity": 1
+    },
+    {
+        "hero_id": 415,
+        "hero_name": "Sigrun",
+        "skill_id": 1007,
+        "skill_name": "Def/Res Link 1",
+        "rarity": 1
+    },
+    {
+        "hero_id": 415,
+        "hero_name": "Sigrun",
+        "skill_id": 24,
+        "skill_name": "Steel Lance",
+        "rarity": 2
+    },
+    {
+        "hero_id": 415,
+        "hero_name": "Sigrun",
+        "skill_id": 1008,
+        "skill_name": "Def/Res Link 2",
+        "rarity": 2
+    },
+    {
+        "hero_id": 415,
+        "hero_name": "Sigrun",
+        "skill_id": 137,
+        "skill_name": "Swap",
+        "rarity": 3
+    },
+    {
+        "hero_id": 415,
+        "hero_name": "Sigrun",
+        "skill_id": 355,
+        "skill_name": "Hone Spd 1",
+        "rarity": 3
+    },
+    {
+        "hero_id": 415,
+        "hero_name": "Sigrun",
+        "skill_id": 1078,
+        "skill_name": "Reprisal Lance",
+        "rarity": 3
+    },
+    {
+        "hero_id": 415,
+        "hero_name": "Sigrun",
+        "skill_id": 356,
+        "skill_name": "Hone Spd 2",
+        "rarity": 4
+    },
+    {
+        "hero_id": 415,
+        "hero_name": "Sigrun",
+        "skill_id": 1009,
+        "skill_name": "Def/Res Link 3",
+        "rarity": 4
+    },
+    {
+        "hero_id": 415,
+        "hero_name": "Sigrun",
+        "skill_id": 368,
+        "skill_name": "Hone Fliers",
+        "rarity": 5
+    },
+    {
+        "hero_id": 415,
+        "hero_name": "Sigrun",
+        "skill_id": 1079,
+        "skill_name": "Reprisal Lance+",
+        "rarity": 5
     }
 ]
